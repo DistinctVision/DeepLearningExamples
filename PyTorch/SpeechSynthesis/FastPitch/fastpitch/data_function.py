@@ -162,7 +162,7 @@ class TTSDataset(torch.utils.data.Dataset):
         self.dataset_path = dataset_path
         self.audiopaths_and_text = load_filepaths_and_text(
             dataset_path, audiopaths_and_text,
-            has_speakers=(n_speakers > 1))
+            has_speakers=True)
         self.load_mel_from_disk = load_mel_from_disk
         if not load_mel_from_disk:
             self.max_wav_value = max_wav_value

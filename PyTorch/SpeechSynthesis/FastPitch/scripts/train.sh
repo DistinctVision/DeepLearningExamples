@@ -2,14 +2,14 @@
 
 export OMP_NUM_THREADS=1
 
-: ${NUM_GPUS:=8}
-: ${BATCH_SIZE:=16}
-: ${GRAD_ACCUMULATION:=2}
+: ${NUM_GPUS:=2}
+: ${BATCH_SIZE:=18}
+: ${GRAD_ACCUMULATION:=6}
 : ${OUTPUT_DIR:="./output"}
 : ${LOG_FILE:=$OUTPUT_DIR/nvlog.json}
-: ${DATASET_PATH:=LJSpeech-1.1}
-: ${TRAIN_FILELIST:=filelists/ljs_audio_pitch_text_train_v3.txt}
-: ${VAL_FILELIST:=filelists/ljs_audio_pitch_text_val.txt}
+: ${DATASET_PATH:=/home/server2/datasets/}
+: ${TRAIN_FILELIST:=filelists/train.txt}
+: ${VAL_FILELIST:=filelists/val.txt}
 : ${AMP:=false}
 : ${SEED:=""}
 
@@ -33,7 +33,7 @@ export OMP_NUM_THREADS=1
 : ${LOAD_MEL_FROM_DISK:=false}
 
 # For multispeaker models, add speaker ID = {0, 1, ...} as the last filelist column
-: ${NSPEAKERS:=1}
+: ${NSPEAKERS:=2}
 : ${SAMPLING_RATE:=22050}
 
 # Adjust env variables to maintain the global batch size: NUM_GPUS x BATCH_SIZE x GRAD_ACCUMULATION = 256.
@@ -42,7 +42,7 @@ GBS=$(($NUM_GPUS * $BATCH_SIZE * $GRAD_ACCUMULATION))
 echo -e "\nAMP=$AMP, ${NUM_GPUS}x${BATCH_SIZE}x${GRAD_ACCUMULATION}" \
         "(global batch size ${GBS})\n"
 
-# ARGS=""
+ARGS=""
 ARGS+=" --cuda"
 ARGS+=" -o $OUTPUT_DIR"
 ARGS+=" --log-file $LOG_FILE"
@@ -98,4 +98,4 @@ fi
 mkdir -p "$OUTPUT_DIR"
 
 : ${DISTRIBUTED:="-m torch.distributed.launch --nproc_per_node $NUM_GPUS"}
-python $DISTRIBUTED train.py $ARGS "$@"
+python3 $DISTRIBUTED train.py $ARGS "$@"
