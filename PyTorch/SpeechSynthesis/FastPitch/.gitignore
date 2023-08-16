@@ -3,6 +3,7 @@ LJSpeech-1.1/
 output*
 scripts_joc/
 tests/
+temp/
 pretrained_models/
 *.pyc
 __pycache__
@@ -13,3 +14,4 @@ __pycache__
 *.swp
 *.swo
 *.swn
+cmudict/cmudict-0.7b
