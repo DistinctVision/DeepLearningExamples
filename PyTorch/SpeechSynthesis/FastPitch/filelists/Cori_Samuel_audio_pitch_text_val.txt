@@ -1,0 +1,100 @@
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_19_hawthorne_0255.mp3|hi_fi_tts_v0/pitch/scarletletter_19_hawthorne_0255.pt|but with a subdued tone|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_13_hawthorne_0239.mp3|hi_fi_tts_v0/pitch/scarletletter_13_hawthorne_0239.pt|not actually|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_09_conrad_0931.mp3|hi_fi_tts_v0/pitch/secretagent_09_conrad_0931.pt|said the chief inspector in an approving tone|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_07_conrad_0232.mp3|hi_fi_tts_v0/pitch/secretagent_07_conrad_0232.pt|the actual perpetrator seems to have been led by the hand to the spot|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_05_seacole_0172.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_05_seacole_0172.pt|it chokes them off admirably|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_06_hill_0291.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_06_hill_0291.pt|this couldn't be her own sister|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0081.mp3|hi_fi_tts_v0/pitch/secretagent_06_conrad_0081.pt|locksmith by trade|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_17_hawthorne_0292.mp3|hi_fi_tts_v0/pitch/scarletletter_17_hawthorne_0292.pt|and hand clasped in hand|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_12_hawthorne_0045.mp3|hi_fi_tts_v0/pitch/scarletletter_12_hawthorne_0045.pt|to exert their fierce and savage strength for a good purpose|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_07_ford_0309.mp3|hi_fi_tts_v0/pitch/souloflondon_07_ford_0309.pt|making umbrella tassels|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00b_hawthorne_0145.mp3|hi_fi_tts_v0/pitch/scarletletter_00b_hawthorne_0145.pt|and as my position in reference to them|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_05_nietzsche_0380.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_05_nietzsche_0380.pt|we find it so much easier to fancy the chance of a tree|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_04_hawthorne_0255.mp3|hi_fi_tts_v0/pitch/scarletletter_04_hawthorne_0255.pt|when they sought to wrench the name out of thy heart|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_03_hill_0102.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_03_hill_0102.pt|he exclaimed impulsively|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_12_seacole_0181.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_12_seacole_0181.pt|suffered terribly|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0555.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0555.pt|as though cognition here got hold of its object purely and simply as the thing in itself without any falsification taking place either on the part of the subject or the object|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00a_hawthorne_0411.mp3|hi_fi_tts_v0/pitch/scarletletter_00a_hawthorne_0411.pt|spent a tempestuous manhood|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_13_hawthorne_0128.mp3|hi_fi_tts_v0/pitch/scarletletter_13_hawthorne_0128.pt|but quite as frequently it awards more than justice|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_08_benson_0189.mp3|hi_fi_tts_v0/pitch/livingalone_08_benson_0189.pt|though of course not so picturesque|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_11_ford_0120.mp3|hi_fi_tts_v0/pitch/souloflondon_11_ford_0120.pt|in his shirt sleeves|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_15_hawthorne_0205.mp3|hi_fi_tts_v0/pitch/scarletletter_15_hawthorne_0205.pt|and a bitter scorn of many things which|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_19_seacole_0044.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_19_seacole_0044.pt|after this soon began the home going with happy faces and light hearts|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00c_hawthorne_0814.mp3|hi_fi_tts_v0/pitch/scarletletter_00c_hawthorne_0814.pt|precisely the most agreeable of his life|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_09_conrad_1000.mp3|hi_fi_tts_v0/pitch/secretagent_09_conrad_1000.pt|two men were seen entering the park|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0258.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_07_nietzsche_0258.pt|it is perhaps our happiest acquisition that we know how to appreciate homer|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0672.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_06_nietzsche_0672.pt|in being the bad conscience of their age|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0399.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0399.pt|by means of a means faculty|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_05_seacole_0270.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_05_seacole_0270.pt|who need have been a member of the church militant to secure his pretty wife from the host of admirers she had gained during her day's journey from panama|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00b_hawthorne_0424.mp3|hi_fi_tts_v0/pitch/scarletletter_00b_hawthorne_0424.pt|i could discern the main points of his portrait|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0358.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0358.pt|in our youthful years we still venerate and despise without the art of nuance|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_03_nietzsche_0443.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_03_nietzsche_0443.pt|his whole workmanlike laboriousness|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0512.mp3|hi_fi_tts_v0/pitch/secretagent_06_conrad_0512.pt|he stopped short and changing his tone|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0142.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0142.pt|in fact|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_18_hawthorne_0047.mp3|hi_fi_tts_v0/pitch/scarletletter_18_hawthorne_0047.pt|but each breath of emotion and his every thought|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_06_hawthorne_0249.mp3|hi_fi_tts_v0/pitch/scarletletter_06_hawthorne_0249.pt|these outbreaks of a fierce temper had a kind of value|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_14_hawthorne_0192.mp3|hi_fi_tts_v0/pitch/scarletletter_14_hawthorne_0192.pt|dost thou remember me hester as i was nine years agone|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_05_benson_0498.mp3|hi_fi_tts_v0/pitch/livingalone_05_benson_0498.pt|i heard the first myself without any possibility of mistake|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_02_benson_0620.mp3|hi_fi_tts_v0/pitch/livingalone_02_benson_0620.pt|there is no secret in the matter|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_02_conrad_0257.mp3|hi_fi_tts_v0/pitch/secretagent_02_conrad_0257.pt|he let the air escape from his pursed up lips like a man blowing at a spoonful of hot soup|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_15_seacole_0065.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_15_seacole_0065.pt|i could judge of its severity by the long trains of wounded which passed the british hotel|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0313.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0313.pt|our deepest insights must|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_04_hill_0206.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_04_hill_0206.pt|it warmed her heart with humble pleasure|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0140.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0140.pt|and consequently much disguise|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_14_conrad_0658.mp3|hi_fi_tts_v0/pitch/secretagent_14_conrad_0658.pt|he said with a little friendly laugh to the civil driver|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_15_conrad_0034.mp3|hi_fi_tts_v0/pitch/secretagent_15_conrad_0034.pt|how does he look on it|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_06_hill_0357.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_06_hill_0357.pt|and i mean to give it to you if i can|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_11_conrad_0243.mp3|hi_fi_tts_v0/pitch/secretagent_11_conrad_0243.pt|most unexpectedly|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_09_hawthorne_0103.mp3|hi_fi_tts_v0/pitch/scarletletter_09_hawthorne_0103.pt|it would be because of his own unworthiness to perform its humblest mission here on earth|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_03_conrad_0186.mp3|hi_fi_tts_v0/pitch/secretagent_03_conrad_0186.pt|with a shade of condescension and a toss of his head towards the kitchen|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_04_hill_0145.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_04_hill_0145.pt|luella wouldn't like it a bit|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_02_conrad_0226.mp3|hi_fi_tts_v0/pitch/secretagent_02_conrad_0226.pt|the state of affairs you expose there is assumed to exist as the first condition of your employment|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00c_hawthorne_0139.mp3|hi_fi_tts_v0/pitch/scarletletter_00c_hawthorne_0139.pt|one of the most remarkable occasions|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0606.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0606.pt|however|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_11_conrad_0129.mp3|hi_fi_tts_v0/pitch/secretagent_11_conrad_0129.pt|he paused|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_17_hawthorne_0178.mp3|hi_fi_tts_v0/pitch/scarletletter_17_hawthorne_0178.pt|all her sympathies towards him had been both softened and invigorated|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_07_conrad_0118.mp3|hi_fi_tts_v0/pitch/secretagent_07_conrad_0118.pt|the ambassador|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_16_seacole_0488.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_16_seacole_0488.pt|and succeeded in rearing it|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0242.mp3|hi_fi_tts_v0/pitch/secretagent_06_conrad_0242.pt|but merely towards the complete economic ruin of the system|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0557.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_07_nietzsche_0557.pt|one ought even to encourage them|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_02_hawthorne_0006.mp3|hi_fi_tts_v0/pitch/scarletletter_02_hawthorne_0006.pt|amongst any other population|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_03_hill_0279.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_03_hill_0279.pt|nor any place to go fixed up like that|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_11_conrad_0527.mp3|hi_fi_tts_v0/pitch/secretagent_11_conrad_0527.pt|might have been father and son|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_02_benson_0121.mp3|hi_fi_tts_v0/pitch/livingalone_02_benson_0121.pt|found by the guest in her bag and divided|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_09_benson_0637.mp3|hi_fi_tts_v0/pitch/livingalone_09_benson_0637.pt|i will never go out to tea in kensington again if this is the result|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0699.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0699.pt|that is to say|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_03_conrad_0300.mp3|hi_fi_tts_v0/pitch/secretagent_03_conrad_0300.pt|patience|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_05_hawthorne_0063.mp3|hi_fi_tts_v0/pitch/scarletletter_05_hawthorne_0063.pt|inscrutable forest open to her|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_06_ford_0400.mp3|hi_fi_tts_v0/pitch/souloflondon_06_ford_0400.pt|both are possible enough|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_17_hawthorne_0055.mp3|hi_fi_tts_v0/pitch/scarletletter_17_hawthorne_0055.pt|and sat down on the heap of moss where she and pearl had before been sitting|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_05_benson_0033.mp3|hi_fi_tts_v0/pitch/livingalone_05_benson_0033.pt|called innocent|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_11_seacole_0190.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_11_seacole_0190.pt|while the greek|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_02_hawthorne_0181.mp3|hi_fi_tts_v0/pitch/scarletletter_02_hawthorne_0181.pt|she had dark and abundant hair|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_04_conrad_0188.mp3|hi_fi_tts_v0/pitch/secretagent_04_conrad_0188.pt|yes i could|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00c_hawthorne_0917.mp3|hi_fi_tts_v0/pitch/scarletletter_00c_hawthorne_0917.pt|the old inspector|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_07_conrad_0569.mp3|hi_fi_tts_v0/pitch/secretagent_07_conrad_0569.pt|and the horses|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_13_conrad_0174.mp3|hi_fi_tts_v0/pitch/secretagent_13_conrad_0174.pt|murderers escaped|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_08_conrad_0785.mp3|hi_fi_tts_v0/pitch/secretagent_08_conrad_0785.pt|personal friend of certain anarchists|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_07_conrad_0499.mp3|hi_fi_tts_v0/pitch/secretagent_07_conrad_0499.pt|he saw himself in the sheet of glass|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_08_nietzsche_0630.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_08_nietzsche_0630.pt|and wish to put an end to the nomadic life|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_15_conrad_0336.mp3|hi_fi_tts_v0/pitch/secretagent_15_conrad_0336.pt|he said|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_11_hawthorne_0226.mp3|hi_fi_tts_v0/pitch/scarletletter_11_hawthorne_0226.pt|am utterly a pollution and a lie more than once|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00b_hawthorne_0580.mp3|hi_fi_tts_v0/pitch/scarletletter_00b_hawthorne_0580.pt|which to his order of mind must have seemed little short of crime|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_10_hawthorne_0160.mp3|hi_fi_tts_v0/pitch/scarletletter_10_hawthorne_0160.pt|not with reluctance|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_06_benson_0079.mp3|hi_fi_tts_v0/pitch/livingalone_06_benson_0079.pt|and indeed it was not long before harold passed entirely beyond control|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_10_hawthorne_0047.mp3|hi_fi_tts_v0/pitch/scarletletter_10_hawthorne_0047.pt|in the shape of high aspirations for the welfare of his race|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0741.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_06_nietzsche_0741.pt|precisely this shall be called greatness|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_02_hill_0169.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_02_hill_0169.pt|aunt crete's heart beat with anticipation as he handed her a little white box|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0560.mp3|hi_fi_tts_v0/pitch/secretagent_06_conrad_0560.pt|and solitude in a small four roomed cottage were favourable to his inspiration|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_03_hill_0310.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_03_hill_0310.pt|and there would be something in it for her|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_06_hawthorne_0346.mp3|hi_fi_tts_v0/pitch/scarletletter_06_hawthorne_0346.pt|smiling|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_04_hill_0227.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_04_hill_0227.pt|only playing old|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0576.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0576.pt|in short|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_04_hawthorne_0183.mp3|hi_fi_tts_v0/pitch/scarletletter_04_hawthorne_0183.pt|a man already in decay|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_12_hawthorne_0176.mp3|hi_fi_tts_v0/pitch/scarletletter_12_hawthorne_0176.pt|a good evening to you venerable father wilson|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_21_hawthorne_0135.mp3|hi_fi_tts_v0/pitch/scarletletter_21_hawthorne_0135.pt|child answered her mother|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_07_benson_0077.mp3|hi_fi_tts_v0/pitch/livingalone_07_benson_0077.pt|and in a symmetrical heart shaped spot near his tail|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_14_seacole_0167.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_14_seacole_0167.pt|we bought great supplies of potatoes|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_14_conrad_0161.mp3|hi_fi_tts_v0/pitch/secretagent_14_conrad_0161.pt|the inevitable reward of men's faithful labours on this earth|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_08_conrad_0442.mp3|hi_fi_tts_v0/pitch/secretagent_08_conrad_0442.pt|i'll try not to|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_12_seacole_0107.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_12_seacole_0107.pt|with board and rations|3
