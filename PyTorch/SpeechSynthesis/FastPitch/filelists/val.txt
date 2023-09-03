@@ -98,303 +98,303 @@ LJSpeech-1.1/wavs/LJ009-0238.wav|LJSpeech-1.1/pitch/LJ009-0238.pt|After this the
 LJSpeech-1.1/wavs/LJ039-0223.wav|LJSpeech-1.1/pitch/LJ039-0223.pt|Oswald's Marine training in marksmanship, his other rifle experience and his established familiarity with this particular weapon|0
 LJSpeech-1.1/wavs/LJ014-0076.wav|LJSpeech-1.1/pitch/LJ014-0076.pt|He was seen afterwards smoking and talking with his hosts in their back parlor, and never seen again alive.|0
 LJSpeech-1.1/wavs/LJ016-0138.wav|LJSpeech-1.1/pitch/LJ016-0138.pt|at a distance from the prison.|0
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_047_dumas_0005.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_047_dumas_0005.pt|courtiers possess a supreme kind of science|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_077_dumas_0057.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_077_dumas_0057.pt|ay but when when you like|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_16_dumas_0125.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_16_dumas_0125.pt|no one could possibly have entered monsieur since the keys have never left my pocket|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_55_dumas_0198.mp3|hi_fi_tts_v0/pitch/dartagnan01_55_dumas_0198.pt|and what favor pray|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_30_dumas_0265.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_30_dumas_0265.pt|you give me far more than heaven bestowed|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_067_dumas_0216.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_067_dumas_0216.pt|he entered with a sigh and went to bed directly in order to be ready early in the morning with fresh ideas and the sage counsel of sufficing sleep|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_032_dumas_0224.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_032_dumas_0224.pt|no doubt it contains news|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_31_dumas_0105.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_31_dumas_0105.pt|capitally reasoned porthos only a man must have a fortune like yours to gratify such whims|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_35_dumas_0027.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_35_dumas_0027.pt|remember that a rhyme is never good so long as one can find a better|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_50_nietzsche_0022.mp3|hi_fi_tts_v0/pitch/zarathustra_50_nietzsche_0022.pt|the same day however he gave his discourse on the bedwarfing virtue|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_46_dumas_0046.mp3|hi_fi_tts_v0/pitch/dartagnan01_46_dumas_0046.pt|the morning drum had just been beaten|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_39_dumas_0057.mp3|hi_fi_tts_v0/pitch/dartagnan01_39_dumas_0057.pt|let us get ready gentlemen|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_24_dumas_0147.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_24_dumas_0147.pt|most certainly|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_33_dumas_0333.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_33_dumas_0333.pt|and that because of a want of precision in the colors|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_090_dumas_0031.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_090_dumas_0031.pt|tell me what you want|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_013_dumas_0014.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_013_dumas_0014.pt|monsieur said the king you will please to ride on till you see a carriage coming|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_34_dumas_0018.mp3|hi_fi_tts_v0/pitch/dartagnan01_34_dumas_0018.pt|that of porthos tranquillity|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_57_nietzsche_0292.mp3|hi_fi_tts_v0/pitch/zarathustra_57_nietzsche_0292.pt|why did we ever go on the way|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_22_dumas_0136.mp3|hi_fi_tts_v0/pitch/dartagnan01_22_dumas_0136.pt|and as it is not permissible to contradict a queen whether she smile or weep everybody expatiated on the gallantry of the aldermen of the city of paris|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_43_dumas_0122.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_43_dumas_0122.pt|what nonsense|1
-hi_fi_tts_v0/audio/9017_clean/15752/antoinetteromances4_21_dumas_0006.mp3|hi_fi_tts_v0/pitch/antoinetteromances4_21_dumas_0006.pt|somewhere was the visible token of her defeat|1
-hi_fi_tts_v0/audio/9017_clean/11216/celebratedcrimesv1_05_dumas_0064.mp3|hi_fi_tts_v0/pitch/celebratedcrimesv1_05_dumas_0064.pt|he was then a young man about twenty two or twenty four years of age skilful in all bodily exercises and especially in fencing|1
-hi_fi_tts_v0/audio/9017_clean/15752/antoinetteromances4_11_dumas_0020.mp3|hi_fi_tts_v0/pitch/antoinetteromances4_11_dumas_0020.pt|i shall in short have a glimpse of how we can get in|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_10_dumas_0339.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_10_dumas_0339.pt|thanks and now go and prepare your list of invitations|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_55_dumas_0021.mp3|hi_fi_tts_v0/pitch/dartagnan01_55_dumas_0021.pt|i wish to know|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_054_dumas_0192.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_054_dumas_0192.pt|monsieur everything is to be bought if not by gold by intrigue|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_61_dumas_0205.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_61_dumas_0205.pt|replied bragelonne|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_47_dumas_0049.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_47_dumas_0049.pt|he said|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_55_dumas_0047.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_55_dumas_0047.pt|it was a great idea|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_097_dumas_0080.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_097_dumas_0080.pt|a million can only be drawn and weighed in a day|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_067_dumas_0014.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_067_dumas_0014.pt|he himself climbed a plate in his hand the wooden staircase which led to the chamber and began to knock at the door|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_46_dumas_0049.mp3|hi_fi_tts_v0/pitch/dartagnan01_46_dumas_0049.pt|thus they applied very curtly to the salutations healths and jokes of their companions|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_009_dumas_0104.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_009_dumas_0104.pt|here is my sword monsieur|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_19_dumas_0242.mp3|hi_fi_tts_v0/pitch/dartagnan01_19_dumas_0242.pt|is life worth the trouble of so many questions|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_44_dumas_0164.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_44_dumas_0164.pt|mademoiselle mademoiselle some one is coming|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_01_dumas_0194.mp3|hi_fi_tts_v0/pitch/dartagnan01_01_dumas_0194.pt|did he name no one in his passion|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_024_dumas_0029.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_024_dumas_0029.pt|i am called the comte de la fere monsieur said athos bowing|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_16_dumas_0319.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_16_dumas_0319.pt|mount on horseback|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_099_dumas_0095.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_099_dumas_0095.pt|no no my dear governor|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_63_dumas_0014.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_63_dumas_0014.pt|but as to saying exactly what the king's wish was d'artagnan found himself completely at a loss|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_16_dumas_0037.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_16_dumas_0037.pt|i regret to say that i have broken your chair|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_100_dumas_0116.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_100_dumas_0116.pt|do you remember that woman yes|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_49_dumas_0074.mp3|hi_fi_tts_v0/pitch/dartagnan01_49_dumas_0074.pt|yes madame|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_015_dumas_0007.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_015_dumas_0007.pt|you have too ably arranged my destiny to allow gratitude not to stop me at the moment when i was about to destroy your work|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_54_nietzsche_0046.mp3|hi_fi_tts_v0/pitch/zarathustra_54_nietzsche_0046.pt|for all is open with thee and clear|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_20_dumas_0320.mp3|hi_fi_tts_v0/pitch/dartagnan01_20_dumas_0320.pt|a mattress was laid upon the deck for him|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_095_dumas_0145.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_095_dumas_0145.pt|there now interrupted d'artagnan you are going to say something very rude and i am rendering you a service by stopping you in time|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_65_nietzsche_0126.mp3|hi_fi_tts_v0/pitch/zarathustra_65_nietzsche_0126.pt|at present however a cry of distress calleth me hastily away from you|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_56_dumas_0283.mp3|hi_fi_tts_v0/pitch/dartagnan01_56_dumas_0283.pt|only this time it was no longer an inert body without feeling that the villain had to deal with|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_19_dumas_0124.mp3|hi_fi_tts_v0/pitch/dartagnan01_19_dumas_0124.pt|i saw her|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_78_nietzsche_0003.mp3|hi_fi_tts_v0/pitch/zarathustra_78_nietzsche_0003.pt|otherwise the old gloomy affliction might again fall upon us|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_23_nietzsche_0112.mp3|hi_fi_tts_v0/pitch/zarathustra_23_nietzsche_0112.pt|at last he spake thus|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_90_dumas_0518.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_90_dumas_0518.pt|we may venture on a contest with them may we not|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_27_nietzsche_0051.mp3|hi_fi_tts_v0/pitch/zarathustra_27_nietzsche_0051.pt|of defects did the spirit of those saviours consist|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_88_dumas_0094.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_88_dumas_0094.pt|but this time the smoke dispersed in vain|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_39_dumas_0032.mp3|hi_fi_tts_v0/pitch/dartagnan01_39_dumas_0032.pt|which is not the part of a gentleman|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_03_nietzsche_0027.mp3|hi_fi_tts_v0/pitch/zarathustra_03_nietzsche_0027.pt|that they may not quarrel with one another the good females|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_009_dumas_0248.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_009_dumas_0248.pt|i have neither a mother nor a sister who are suffering|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_042_dumas_0049.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_042_dumas_0049.pt|no one then imputed to pride or even impertinence as would be done nowadays this liberality on the part of the first minister|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_12_dumas_0046.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_12_dumas_0046.pt|it is ridiculous perhaps but it is so|1
-hi_fi_tts_v0/audio/9017_clean/15752/antoinetteromances4_02_dumas_0247.mp3|hi_fi_tts_v0/pitch/antoinetteromances4_02_dumas_0247.pt|i speak of the philosophy of these philosophers not what a pious man like the priest would allow in his holy house|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_01_dumas_0152.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_01_dumas_0152.pt|you are aware that that is the rule|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_50_dumas_0249.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_50_dumas_0249.pt|yes his majesty's hate invincible hate for me|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_45_dumas_0113.mp3|hi_fi_tts_v0/pitch/dartagnan01_45_dumas_0113.pt|he arose in his turn reached his hand to his belt drew forth a pistol and cocked it|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_45_dumas_0174.mp3|hi_fi_tts_v0/pitch/dartagnan01_45_dumas_0174.pt|she might say that athos had hanged her|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_63_dumas_0504.mp3|hi_fi_tts_v0/pitch/dartagnan01_63_dumas_0504.pt|i arrived three hours after her at boulogne|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_32_dumas_0067.mp3|hi_fi_tts_v0/pitch/dartagnan01_32_dumas_0067.pt|but withdrawing his anxious look from the chest and fixing it upon porthos he contented himself with saying|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_14_dumas_0165.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_14_dumas_0165.pt|it is dangerous monsieur de bragelonne|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_51_dumas_0001.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_51_dumas_0001.pt|on his way he trembled with horror at the idea of what had just been revealed to him|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_61_dumas_0294.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_61_dumas_0294.pt|on the day when you can place a date under these words|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_51_dumas_0009.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_51_dumas_0009.pt|in this way|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_61_dumas_0352.mp3|hi_fi_tts_v0/pitch/dartagnan01_61_dumas_0352.pt|let me look at you|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_63_dumas_0532.mp3|hi_fi_tts_v0/pitch/dartagnan01_63_dumas_0532.pt|the two friends met her in the corridor greatly troubled and much upset by such strange events|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_74_dumas_0001.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_74_dumas_0001.pt|porthos still thoughtful was a restraint on aramis whose mind had never felt itself more free|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_68_dumas_0178.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_68_dumas_0178.pt|replied fouquet now perfectly convinced and very pale|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_090_dumas_0036.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_090_dumas_0036.pt|what do you wish me to sign nothing whatever monsieur only it would be very kind if you would take the trouble to write to the king to whom i belong and solicit his majesty's permission for me to marry mademoiselle de la valliere|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_06_dumas_0029.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_06_dumas_0029.pt|the payment of what|1
-hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_061_dumas_0187.mp3|hi_fi_tts_v0/pitch/dartagnan03part1_061_dumas_0187.pt|d'artagnan could not take his eyes off them|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_47_dumas_0088.mp3|hi_fi_tts_v0/pitch/dartagnan01_47_dumas_0088.pt|then|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_05_dumas_0099.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_05_dumas_0099.pt|but yet how strange it is|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_27_dumas_0406.mp3|hi_fi_tts_v0/pitch/dartagnan01_27_dumas_0406.pt|the four crossed the public room and proceeded to take possession of the best apartment in the house which d'artagnan occupied with authority|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_53_dumas_0114.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_53_dumas_0114.pt|we will put that to rights and will take nothing of the superintendent but his good qualities|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_24_dumas_0014.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_24_dumas_0014.pt|at that very moment a second sentinel stopped d'artagnan and while the formalities were being gone through athos could see at a hundred paces from him the man whom his friend had pointed out to him|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_12_dumas_0033.mp3|hi_fi_tts_v0/pitch/dartagnan01_12_dumas_0033.pt|buckingham left alone walked toward a mirror|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_14_dumas_0018.mp3|hi_fi_tts_v0/pitch/dartagnan01_14_dumas_0018.pt|stammered the mercer more dead than alive|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_50_dumas_0126.mp3|hi_fi_tts_v0/pitch/dartagnan01_50_dumas_0126.pt|milady uttered a deep inward shriek and retreated to a corner of the room like a panther which crouches for a spring|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_57_dumas_0162.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_57_dumas_0162.pt|the princess however was near fainting and was obliged to lean upon the foot of the bed for support|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_50_nietzsche_0077.mp3|hi_fi_tts_v0/pitch/zarathustra_50_nietzsche_0077.pt|for only he who is man enough will save the woman in woman|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_60_dumas_0103.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_60_dumas_0103.pt|it was at the hottest time of the day|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_28_dumas_0529.mp3|hi_fi_tts_v0/pitch/dartagnan01_28_dumas_0529.pt|they were assembled in council at the residence of athos which always indicated an event of some gravity|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_21_dumas_0061.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_21_dumas_0061.pt|but honor|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_42_nietzsche_0096.mp3|hi_fi_tts_v0/pitch/zarathustra_42_nietzsche_0096.pt|well|1
-hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_42_nietzsche_0099.mp3|hi_fi_tts_v0/pitch/zarathustra_42_nietzsche_0099.pt|and without delay|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_58_dumas_0223.mp3|hi_fi_tts_v0/pitch/dartagnan01_58_dumas_0223.pt|cried milady|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_32_dumas_0021.mp3|hi_fi_tts_v0/pitch/dartagnan01_32_dumas_0021.pt|but as after all excepting some few acts of economy which porthos had always found very unseasonable the procurator's wife had been tolerably liberal|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_20_dumas_0119.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_20_dumas_0119.pt|inquired athos|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_11_dumas_0277.mp3|hi_fi_tts_v0/pitch/dartagnan01_11_dumas_0277.pt|have no more concern about me|1
-hi_fi_tts_v0/audio/9017_clean/15752/antoinetteromances4_01_dumas_0033.mp3|hi_fi_tts_v0/pitch/antoinetteromances4_01_dumas_0033.pt|will you undertake this rearing but master|1
-hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_25_dumas_0266.mp3|hi_fi_tts_v0/pitch/dartagnan01_25_dumas_0266.pt|continued the host|1
-hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_20_dumas_0143.mp3|hi_fi_tts_v0/pitch/dartagnan03part3_20_dumas_0143.pt|where are you going raoul|1
-hi_fi_tts_v0/audio/6097_clean/13418/shortstories_03_gaskell_0082.mp3|hi_fi_tts_v0/pitch/shortstories_03_gaskell_0082.pt|she might fulfil a woman's dearest duties|2
-hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_03_mann_1390.mp3|hi_fi_tts_v0/pitch/presentpictureofnsw_03_mann_1390.pt|the road seen on the other side of the bridge is called spring row|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_21_haggard_0415.mp3|hi_fi_tts_v0/pitch/bambatse_21_haggard_0415.pt|what did it say|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_43_morris_0179.mp3|hi_fi_tts_v0/pitch/roots_43_morris_0179.pt|they should first be questioned with torments|2
-hi_fi_tts_v0/audio/6097_clean/15326/hartmann_10_fawcett_0108.mp3|hi_fi_tts_v0/pitch/hartmann_10_fawcett_0108.pt|now only some three hundred feet below us|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_21_haggard_0053.mp3|hi_fi_tts_v0/pitch/bambatse_21_haggard_0053.pt|to find the hidden gold|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_01_morris_0245.mp3|hi_fi_tts_v0/pitch/roots_01_morris_0245.pt|would oft stand long hours nose to beam|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_20_haggard_0074.mp3|hi_fi_tts_v0/pitch/bambatse_20_haggard_0074.pt|they appeared to be otherwise occupied|2
-hi_fi_tts_v0/audio/6097_clean/9575/astralplane_05_leadbeater_0204.mp3|hi_fi_tts_v0/pitch/astralplane_05_leadbeater_0204.pt|we shall scarcely wonder that even now it exhibits unimpaired vitality|2
-hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_05_morris_0387.mp3|hi_fi_tts_v0/pitch/glitteringplain_05_morris_0387.pt|then hallblithe went and lay down again full of sorrow|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_10_haggard_0332.mp3|hi_fi_tts_v0/pitch/bambatse_10_haggard_0332.pt|be not afraid of what you may see|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_27_morris_0167.mp3|hi_fi_tts_v0/pitch/roots_27_morris_0167.pt|we will not harm thee but we desire speech of thee|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_15_haggard_0291.mp3|hi_fi_tts_v0/pitch/bambatse_15_haggard_0291.pt|i will see to that myself|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_23_haggard_0438.mp3|hi_fi_tts_v0/pitch/bambatse_23_haggard_0438.pt|yes|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_04_morris_0147.mp3|hi_fi_tts_v0/pitch/roots_04_morris_0147.pt|as he walked on|2
-hi_fi_tts_v0/audio/6097_clean/14764/jaufry_08_lafon_0290.mp3|hi_fi_tts_v0/pitch/jaufry_08_lafon_0290.pt|the king|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_49_morris_0247.mp3|hi_fi_tts_v0/pitch/roots_49_morris_0247.pt|yet indeed all this was before his eyes as a picture which he noted not|2
-hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_17_morris_0175.mp3|hi_fi_tts_v0/pitch/glitteringplain_17_morris_0175.pt|the three seekers seemed glad thereat and the second one said|2
-hi_fi_tts_v0/audio/6097_clean/13418/shortstories_06_gaskell_0203.mp3|hi_fi_tts_v0/pitch/shortstories_06_gaskell_0203.pt|i did not mean to do mischief or slop said tom|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_29_morris_0232.mp3|hi_fi_tts_v0/pitch/roots_29_morris_0232.pt|and try if there be not some good days yet to be found for them|2
-hi_fi_tts_v0/audio/6097_clean/14764/jaufry_04_lafon_0295.mp3|hi_fi_tts_v0/pitch/jaufry_04_lafon_0295.pt|i can delay no more already have i wasted too much time|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_08_haggard_0145.mp3|hi_fi_tts_v0/pitch/bambatse_08_haggard_0145.pt|and the poison is beginning to work|2
-hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_03_mann_1123.mp3|hi_fi_tts_v0/pitch/presentpictureofnsw_03_mann_1123.pt|the garden and shrubbery extend to about four acres|2
-hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_01_mann_0625.mp3|hi_fi_tts_v0/pitch/presentpictureofnsw_01_mann_0625.pt|in the following april|2
-hi_fi_tts_v0/audio/6097_clean/9575/astralplane_03_leadbeater_0715.mp3|hi_fi_tts_v0/pitch/astralplane_03_leadbeater_0715.pt|according to their objects|2
-hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_03_mann_0486.mp3|hi_fi_tts_v0/pitch/presentpictureofnsw_03_mann_0486.pt|and i have known it to sell as high as thirty shillings per bottle|2
-hi_fi_tts_v0/audio/6097_clean/13418/shortstories_10_gaskell_0930.mp3|hi_fi_tts_v0/pitch/shortstories_10_gaskell_0930.pt|earning money would not make us happy|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_12_haggard_0167.mp3|hi_fi_tts_v0/pitch/bambatse_12_haggard_0167.pt|a jew by birth|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_18_haggard_0486.mp3|hi_fi_tts_v0/pitch/nada_lily_18_haggard_0486.pt|surged back again|2
-hi_fi_tts_v0/audio/6097_clean/13418/shortstories_03_gaskell_0610.mp3|hi_fi_tts_v0/pitch/shortstories_03_gaskell_0610.pt|with parties going to this or that railway station|2
-hi_fi_tts_v0/audio/6097_clean/13418/shortstories_06_gaskell_0558.mp3|hi_fi_tts_v0/pitch/shortstories_06_gaskell_0558.pt|he was not reassured when|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_56_morris_0047.mp3|hi_fi_tts_v0/pitch/roots_56_morris_0047.pt|a leash of arrows was in her girdle|2
-hi_fi_tts_v0/audio/6097_clean/9575/astralplane_01_leadbeater_0183.mp3|hi_fi_tts_v0/pitch/astralplane_01_leadbeater_0183.pt|however|2
-hi_fi_tts_v0/audio/6097_clean/13418/shortstories_06_gaskell_0479.mp3|hi_fi_tts_v0/pitch/shortstories_06_gaskell_0479.pt|and drew him fondly towards her|2
-hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_05_morris_0316.mp3|hi_fi_tts_v0/pitch/glitteringplain_05_morris_0316.pt|and he would have leapt up and cast his arms about her|2
-hi_fi_tts_v0/audio/6097_clean/13418/shortstories_01_gaskell_0061.mp3|hi_fi_tts_v0/pitch/shortstories_01_gaskell_0061.pt|of which that smile was part|2
-hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_15_morris_0035.mp3|hi_fi_tts_v0/pitch/glitteringplain_15_morris_0035.pt|but the king spake and said|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_17_haggard_0132.mp3|hi_fi_tts_v0/pitch/bambatse_17_haggard_0132.pt|no no hear me first before you refuse|2
-hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_01_mann_0177.mp3|hi_fi_tts_v0/pitch/presentpictureofnsw_01_mann_0177.pt|one of the first acts of the new governor was the establishment of a printing press|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_04_haggard_0546.mp3|hi_fi_tts_v0/pitch/nada_lily_04_haggard_0546.pt|but as soon as he had found his breath again he was set to run for his life|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_19_morris_0586.mp3|hi_fi_tts_v0/pitch/roots_19_morris_0586.pt|but him thou shalt not slay|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_11_morris_0154.mp3|hi_fi_tts_v0/pitch/roots_11_morris_0154.pt|and of such days little is the story|2
-hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_21_morris_0197.mp3|hi_fi_tts_v0/pitch/glitteringplain_21_morris_0197.pt|he broke off perforce|2
-hi_fi_tts_v0/audio/6097_clean/9575/astralplane_04_leadbeater_0556.mp3|hi_fi_tts_v0/pitch/astralplane_04_leadbeater_0556.pt|for all that is actively or wilfully evil has long been weeded out from their ranks|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_22_haggard_0387.mp3|hi_fi_tts_v0/pitch/nada_lily_22_haggard_0387.pt|see|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_09_haggard_0166.mp3|hi_fi_tts_v0/pitch/bambatse_09_haggard_0166.pt|never shall you see it ripen more|2
-hi_fi_tts_v0/audio/6097_clean/15277/swag_03_tompkins_0283.mp3|hi_fi_tts_v0/pitch/swag_03_tompkins_0283.pt|a gradual descent of a couple of miles|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_06_morris_0352.mp3|hi_fi_tts_v0/pitch/roots_06_morris_0352.pt|lo how they needs must take the stream|2
-hi_fi_tts_v0/audio/6097_clean/15326/hartmann_12_fawcett_0135.mp3|hi_fi_tts_v0/pitch/hartmann_12_fawcett_0135.pt|to forego a glance was impossible|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_13_haggard_0382.mp3|hi_fi_tts_v0/pitch/nada_lily_13_haggard_0382.pt|all the three hundred and sixty and three of them that are left|2
-hi_fi_tts_v0/audio/6097_clean/14764/jaufry_10_lafon_0127.mp3|hi_fi_tts_v0/pitch/jaufry_10_lafon_0127.pt|where is the right by which you claim such prize|2
-hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_02_mann_0229.mp3|hi_fi_tts_v0/pitch/presentpictureofnsw_02_mann_0229.pt|to provide sufficient provisions for the support of their men|2
-hi_fi_tts_v0/audio/6097_clean/9575/astralplane_04_leadbeater_0237.mp3|hi_fi_tts_v0/pitch/astralplane_04_leadbeater_0237.pt|in the golden age before this kaliyuga men were on the whole less selfish and more spiritual|2
-hi_fi_tts_v0/audio/6097_clean/15277/swag_00_tompkins_0248.mp3|hi_fi_tts_v0/pitch/swag_00_tompkins_0248.pt|unless the man walks twenty miles|2
-hi_fi_tts_v0/audio/6097_clean/14764/jaufry_06_lafon_0552.mp3|hi_fi_tts_v0/pitch/jaufry_06_lafon_0552.pt|and to her say|2
-hi_fi_tts_v0/audio/6097_clean/15326/hartmann_02_fawcett_0004.mp3|hi_fi_tts_v0/pitch/hartmann_02_fawcett_0004.pt|prolific only of dyspepsia and boring conversations|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_31_morris_0169.mp3|hi_fi_tts_v0/pitch/roots_31_morris_0169.pt|and stayed before the scrivener and cried out|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_21_haggard_0350.mp3|hi_fi_tts_v0/pitch/bambatse_21_haggard_0350.pt|grew poisonous and choked her|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_24_haggard_0408.mp3|hi_fi_tts_v0/pitch/bambatse_24_haggard_0408.pt|and near the foot of it saw an old man sitting|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_22_morris_0018.mp3|hi_fi_tts_v0/pitch/roots_22_morris_0018.pt|but where they were at least sheltered from the wind|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_25_morris_0284.mp3|hi_fi_tts_v0/pitch/roots_25_morris_0284.pt|this also goeth with my knowledge thereof|2
-hi_fi_tts_v0/audio/6097_clean/15277/swag_00_tompkins_0093.mp3|hi_fi_tts_v0/pitch/swag_00_tompkins_0093.pt|and a live companion|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_03_morris_0089.mp3|hi_fi_tts_v0/pitch/roots_03_morris_0089.pt|and the bold lads i shall one day lead in battle drinking out of my very cup|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_14_haggard_0147.mp3|hi_fi_tts_v0/pitch/nada_lily_14_haggard_0147.pt|and his teeth grinned beneath his curling lips|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_26_haggard_0349.mp3|hi_fi_tts_v0/pitch/nada_lily_26_haggard_0349.pt|i sent him who was with us back to the camp|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_02_haggard_0230.mp3|hi_fi_tts_v0/pitch/nada_lily_02_haggard_0230.pt|as noma had bid me|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_10_haggard_0215.mp3|hi_fi_tts_v0/pitch/nada_lily_10_haggard_0215.pt|thou wouldst give me a son to kill me|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_02_haggard_0032.mp3|hi_fi_tts_v0/pitch/bambatse_02_haggard_0032.pt|i never considered myself justified in asking any lady to share the prospective estate|2
-hi_fi_tts_v0/audio/6097_clean/15326/hartmann_10_fawcett_0181.mp3|hi_fi_tts_v0/pitch/hartmann_10_fawcett_0181.pt|and imagination thus stimulated could not very well go far wrong|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_58_morris_0170.mp3|hi_fi_tts_v0/pitch/roots_58_morris_0170.pt|and even therewith|2
-hi_fi_tts_v0/audio/6097_clean/15277/swag_04_tompkins_0420.mp3|hi_fi_tts_v0/pitch/swag_04_tompkins_0420.pt|a very refreshing dip may be indulged in about a quarter of a mile up stream|2
-hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_01_mann_0333.mp3|hi_fi_tts_v0/pitch/presentpictureofnsw_01_mann_0333.pt|on the secession of governor hunter|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_04_haggard_0009.mp3|hi_fi_tts_v0/pitch/bambatse_04_haggard_0009.pt|under proper medical care her senses soon came back to her|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_20_morris_0107.mp3|hi_fi_tts_v0/pitch/roots_20_morris_0107.pt|at last he spoke in a voice hoarse at first|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_17_morris_0066.mp3|hi_fi_tts_v0/pitch/roots_17_morris_0066.pt|then lead him out and bring him to the north east corner of the hall|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_21_haggard_0172.mp3|hi_fi_tts_v0/pitch/bambatse_21_haggard_0172.pt|and all the wood that they had collected for firing|2
-hi_fi_tts_v0/audio/6097_clean/15277/swag_02_tompkins_0122.mp3|hi_fi_tts_v0/pitch/swag_02_tompkins_0122.pt|eighteen thirty six on his celebrated trip across the blue mountains|2
-hi_fi_tts_v0/audio/6097_clean/15326/hartmann_08_fawcett_0210.mp3|hi_fi_tts_v0/pitch/hartmann_08_fawcett_0210.pt|what enthusiasm must inspire these|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_21_morris_0397.mp3|hi_fi_tts_v0/pitch/roots_21_morris_0397.pt|and now the love of face of god had begun to spring up in their hearts|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_32_haggard_0073.mp3|hi_fi_tts_v0/pitch/nada_lily_32_haggard_0073.pt|the tale is not yet all told|2
-hi_fi_tts_v0/audio/6097_clean/15326/hartmann_07_fawcett_0378.mp3|hi_fi_tts_v0/pitch/hartmann_07_fawcett_0378.pt|my friend stanley comes among you|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_20_haggard_0206.mp3|hi_fi_tts_v0/pitch/bambatse_20_haggard_0206.pt|i did not follow you miss clifford|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_22_morris_0330.mp3|hi_fi_tts_v0/pitch/roots_22_morris_0330.pt|who was slain outright|2
-hi_fi_tts_v0/audio/6097_clean/9575/astralplane_06_leadbeater_0362.mp3|hi_fi_tts_v0/pitch/astralplane_06_leadbeater_0362.pt|when a picture has to be precipitated the method is precisely the same|2
-hi_fi_tts_v0/audio/6097_clean/14764/jaufry_00_lafon_0113.mp3|hi_fi_tts_v0/pitch/jaufry_00_lafon_0113.pt|after the ingenious don quixote|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_18_haggard_0080.mp3|hi_fi_tts_v0/pitch/nada_lily_18_haggard_0080.pt|and none dared to drink so much as a cup of water|2
-hi_fi_tts_v0/audio/6097_clean/14764/jaufry_01_lafon_0196.mp3|hi_fi_tts_v0/pitch/jaufry_01_lafon_0196.pt|the best of help|2
-hi_fi_tts_v0/audio/6097_clean/14764/jaufry_07_lafon_0279.mp3|hi_fi_tts_v0/pitch/jaufry_07_lafon_0279.pt|in all gentleness|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_33_haggard_0645.mp3|hi_fi_tts_v0/pitch/nada_lily_33_haggard_0645.pt|it is well to have lived so to die|2
-hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_09_morris_0065.mp3|hi_fi_tts_v0/pitch/glitteringplain_09_morris_0065.pt|and waste my body with lack of patience|2
-hi_fi_tts_v0/audio/6097_clean/9575/astralplane_02_leadbeater_0177.mp3|hi_fi_tts_v0/pitch/astralplane_02_leadbeater_0177.pt|it will be seen that this second principle of man is highly complex|2
-hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_05_morris_0108.mp3|hi_fi_tts_v0/pitch/glitteringplain_05_morris_0108.pt|and great mountains rising beyond it|2
-hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_34_haggard_0262.mp3|hi_fi_tts_v0/pitch/nada_lily_34_haggard_0262.pt|a great man|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_13_haggard_0111.mp3|hi_fi_tts_v0/pitch/bambatse_13_haggard_0111.pt|do not judge me hardly|2
-hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_01_mann_0381.mp3|hi_fi_tts_v0/pitch/presentpictureofnsw_01_mann_0381.pt|and the apprehensions which it had produced had entirely subsided|2
-hi_fi_tts_v0/audio/6097_clean/14843/bambatse_10_haggard_0230.mp3|hi_fi_tts_v0/pitch/bambatse_10_haggard_0230.pt|built like those below|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_45_morris_0321.mp3|hi_fi_tts_v0/pitch/roots_45_morris_0321.pt|and fell to smiting them with their own weapon|2
-hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_07_morris_0019.mp3|hi_fi_tts_v0/pitch/glitteringplain_07_morris_0019.pt|a ship shall not be lacking thee for that voyage said the elder|2
-hi_fi_tts_v0/audio/6097_clean/14764/jaufry_08_lafon_0029.mp3|hi_fi_tts_v0/pitch/jaufry_08_lafon_0029.pt|go and disarm thyself|2
-hi_fi_tts_v0/audio/6097_clean/13657/roots_43_morris_0355.mp3|hi_fi_tts_v0/pitch/roots_43_morris_0355.pt|but were not sure|2
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_19_hawthorne_0255.mp3|hi_fi_tts_v0/pitch/scarletletter_19_hawthorne_0255.pt|but with a subdued tone|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_13_hawthorne_0239.mp3|hi_fi_tts_v0/pitch/scarletletter_13_hawthorne_0239.pt|not actually|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_09_conrad_0931.mp3|hi_fi_tts_v0/pitch/secretagent_09_conrad_0931.pt|said the chief inspector in an approving tone|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_07_conrad_0232.mp3|hi_fi_tts_v0/pitch/secretagent_07_conrad_0232.pt|the actual perpetrator seems to have been led by the hand to the spot|3
-hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_05_seacole_0172.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_05_seacole_0172.pt|it chokes them off admirably|3
-hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_06_hill_0291.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_06_hill_0291.pt|this couldn't be her own sister|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0081.mp3|hi_fi_tts_v0/pitch/secretagent_06_conrad_0081.pt|locksmith by trade|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_17_hawthorne_0292.mp3|hi_fi_tts_v0/pitch/scarletletter_17_hawthorne_0292.pt|and hand clasped in hand|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_12_hawthorne_0045.mp3|hi_fi_tts_v0/pitch/scarletletter_12_hawthorne_0045.pt|to exert their fierce and savage strength for a good purpose|3
-hi_fi_tts_v0/audio/92_clean/10633/souloflondon_07_ford_0309.mp3|hi_fi_tts_v0/pitch/souloflondon_07_ford_0309.pt|making umbrella tassels|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00b_hawthorne_0145.mp3|hi_fi_tts_v0/pitch/scarletletter_00b_hawthorne_0145.pt|and as my position in reference to them|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_05_nietzsche_0380.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_05_nietzsche_0380.pt|we find it so much easier to fancy the chance of a tree|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_04_hawthorne_0255.mp3|hi_fi_tts_v0/pitch/scarletletter_04_hawthorne_0255.pt|when they sought to wrench the name out of thy heart|3
-hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_03_hill_0102.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_03_hill_0102.pt|he exclaimed impulsively|3
-hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_12_seacole_0181.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_12_seacole_0181.pt|suffered terribly|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0555.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0555.pt|as though cognition here got hold of its object purely and simply as the thing in itself without any falsification taking place either on the part of the subject or the object|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00a_hawthorne_0411.mp3|hi_fi_tts_v0/pitch/scarletletter_00a_hawthorne_0411.pt|spent a tempestuous manhood|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_13_hawthorne_0128.mp3|hi_fi_tts_v0/pitch/scarletletter_13_hawthorne_0128.pt|but quite as frequently it awards more than justice|3
-hi_fi_tts_v0/audio/92_clean/6973/livingalone_08_benson_0189.mp3|hi_fi_tts_v0/pitch/livingalone_08_benson_0189.pt|though of course not so picturesque|3
-hi_fi_tts_v0/audio/92_clean/10633/souloflondon_11_ford_0120.mp3|hi_fi_tts_v0/pitch/souloflondon_11_ford_0120.pt|in his shirt sleeves|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_15_hawthorne_0205.mp3|hi_fi_tts_v0/pitch/scarletletter_15_hawthorne_0205.pt|and a bitter scorn of many things which|3
-hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_19_seacole_0044.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_19_seacole_0044.pt|after this soon began the home going with happy faces and light hearts|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00c_hawthorne_0814.mp3|hi_fi_tts_v0/pitch/scarletletter_00c_hawthorne_0814.pt|precisely the most agreeable of his life|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_09_conrad_1000.mp3|hi_fi_tts_v0/pitch/secretagent_09_conrad_1000.pt|two men were seen entering the park|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0258.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_07_nietzsche_0258.pt|it is perhaps our happiest acquisition that we know how to appreciate homer|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0672.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_06_nietzsche_0672.pt|in being the bad conscience of their age|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0399.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0399.pt|by means of a means faculty|3
-hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_05_seacole_0270.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_05_seacole_0270.pt|who need have been a member of the church militant to secure his pretty wife from the host of admirers she had gained during her day's journey from panama|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00b_hawthorne_0424.mp3|hi_fi_tts_v0/pitch/scarletletter_00b_hawthorne_0424.pt|i could discern the main points of his portrait|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0358.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0358.pt|in our youthful years we still venerate and despise without the art of nuance|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_03_nietzsche_0443.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_03_nietzsche_0443.pt|his whole workmanlike laboriousness|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0512.mp3|hi_fi_tts_v0/pitch/secretagent_06_conrad_0512.pt|he stopped short and changing his tone|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0142.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0142.pt|in fact|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_18_hawthorne_0047.mp3|hi_fi_tts_v0/pitch/scarletletter_18_hawthorne_0047.pt|but each breath of emotion and his every thought|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_06_hawthorne_0249.mp3|hi_fi_tts_v0/pitch/scarletletter_06_hawthorne_0249.pt|these outbreaks of a fierce temper had a kind of value|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_14_hawthorne_0192.mp3|hi_fi_tts_v0/pitch/scarletletter_14_hawthorne_0192.pt|dost thou remember me hester as i was nine years agone|3
-hi_fi_tts_v0/audio/92_clean/6973/livingalone_05_benson_0498.mp3|hi_fi_tts_v0/pitch/livingalone_05_benson_0498.pt|i heard the first myself without any possibility of mistake|3
-hi_fi_tts_v0/audio/92_clean/6973/livingalone_02_benson_0620.mp3|hi_fi_tts_v0/pitch/livingalone_02_benson_0620.pt|there is no secret in the matter|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_02_conrad_0257.mp3|hi_fi_tts_v0/pitch/secretagent_02_conrad_0257.pt|he let the air escape from his pursed up lips like a man blowing at a spoonful of hot soup|3
-hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_15_seacole_0065.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_15_seacole_0065.pt|i could judge of its severity by the long trains of wounded which passed the british hotel|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0313.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0313.pt|our deepest insights must|3
-hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_04_hill_0206.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_04_hill_0206.pt|it warmed her heart with humble pleasure|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0140.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0140.pt|and consequently much disguise|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_14_conrad_0658.mp3|hi_fi_tts_v0/pitch/secretagent_14_conrad_0658.pt|he said with a little friendly laugh to the civil driver|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_15_conrad_0034.mp3|hi_fi_tts_v0/pitch/secretagent_15_conrad_0034.pt|how does he look on it|3
-hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_06_hill_0357.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_06_hill_0357.pt|and i mean to give it to you if i can|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_11_conrad_0243.mp3|hi_fi_tts_v0/pitch/secretagent_11_conrad_0243.pt|most unexpectedly|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_09_hawthorne_0103.mp3|hi_fi_tts_v0/pitch/scarletletter_09_hawthorne_0103.pt|it would be because of his own unworthiness to perform its humblest mission here on earth|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_03_conrad_0186.mp3|hi_fi_tts_v0/pitch/secretagent_03_conrad_0186.pt|with a shade of condescension and a toss of his head towards the kitchen|3
-hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_04_hill_0145.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_04_hill_0145.pt|luella wouldn't like it a bit|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_02_conrad_0226.mp3|hi_fi_tts_v0/pitch/secretagent_02_conrad_0226.pt|the state of affairs you expose there is assumed to exist as the first condition of your employment|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00c_hawthorne_0139.mp3|hi_fi_tts_v0/pitch/scarletletter_00c_hawthorne_0139.pt|one of the most remarkable occasions|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0606.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0606.pt|however|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_11_conrad_0129.mp3|hi_fi_tts_v0/pitch/secretagent_11_conrad_0129.pt|he paused|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_17_hawthorne_0178.mp3|hi_fi_tts_v0/pitch/scarletletter_17_hawthorne_0178.pt|all her sympathies towards him had been both softened and invigorated|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_07_conrad_0118.mp3|hi_fi_tts_v0/pitch/secretagent_07_conrad_0118.pt|the ambassador|3
-hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_16_seacole_0488.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_16_seacole_0488.pt|and succeeded in rearing it|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0242.mp3|hi_fi_tts_v0/pitch/secretagent_06_conrad_0242.pt|but merely towards the complete economic ruin of the system|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0557.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_07_nietzsche_0557.pt|one ought even to encourage them|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_02_hawthorne_0006.mp3|hi_fi_tts_v0/pitch/scarletletter_02_hawthorne_0006.pt|amongst any other population|3
-hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_03_hill_0279.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_03_hill_0279.pt|nor any place to go fixed up like that|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_11_conrad_0527.mp3|hi_fi_tts_v0/pitch/secretagent_11_conrad_0527.pt|might have been father and son|3
-hi_fi_tts_v0/audio/92_clean/6973/livingalone_02_benson_0121.mp3|hi_fi_tts_v0/pitch/livingalone_02_benson_0121.pt|found by the guest in her bag and divided|3
-hi_fi_tts_v0/audio/92_clean/6973/livingalone_09_benson_0637.mp3|hi_fi_tts_v0/pitch/livingalone_09_benson_0637.pt|i will never go out to tea in kensington again if this is the result|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0699.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0699.pt|that is to say|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_03_conrad_0300.mp3|hi_fi_tts_v0/pitch/secretagent_03_conrad_0300.pt|patience|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_05_hawthorne_0063.mp3|hi_fi_tts_v0/pitch/scarletletter_05_hawthorne_0063.pt|inscrutable forest open to her|3
-hi_fi_tts_v0/audio/92_clean/10633/souloflondon_06_ford_0400.mp3|hi_fi_tts_v0/pitch/souloflondon_06_ford_0400.pt|both are possible enough|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_17_hawthorne_0055.mp3|hi_fi_tts_v0/pitch/scarletletter_17_hawthorne_0055.pt|and sat down on the heap of moss where she and pearl had before been sitting|3
-hi_fi_tts_v0/audio/92_clean/6973/livingalone_05_benson_0033.mp3|hi_fi_tts_v0/pitch/livingalone_05_benson_0033.pt|called innocent|3
-hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_11_seacole_0190.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_11_seacole_0190.pt|while the greek|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_02_hawthorne_0181.mp3|hi_fi_tts_v0/pitch/scarletletter_02_hawthorne_0181.pt|she had dark and abundant hair|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_04_conrad_0188.mp3|hi_fi_tts_v0/pitch/secretagent_04_conrad_0188.pt|yes i could|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00c_hawthorne_0917.mp3|hi_fi_tts_v0/pitch/scarletletter_00c_hawthorne_0917.pt|the old inspector|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_07_conrad_0569.mp3|hi_fi_tts_v0/pitch/secretagent_07_conrad_0569.pt|and the horses|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_13_conrad_0174.mp3|hi_fi_tts_v0/pitch/secretagent_13_conrad_0174.pt|murderers escaped|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_08_conrad_0785.mp3|hi_fi_tts_v0/pitch/secretagent_08_conrad_0785.pt|personal friend of certain anarchists|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_07_conrad_0499.mp3|hi_fi_tts_v0/pitch/secretagent_07_conrad_0499.pt|he saw himself in the sheet of glass|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_08_nietzsche_0630.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_08_nietzsche_0630.pt|and wish to put an end to the nomadic life|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_15_conrad_0336.mp3|hi_fi_tts_v0/pitch/secretagent_15_conrad_0336.pt|he said|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_11_hawthorne_0226.mp3|hi_fi_tts_v0/pitch/scarletletter_11_hawthorne_0226.pt|am utterly a pollution and a lie more than once|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00b_hawthorne_0580.mp3|hi_fi_tts_v0/pitch/scarletletter_00b_hawthorne_0580.pt|which to his order of mind must have seemed little short of crime|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_10_hawthorne_0160.mp3|hi_fi_tts_v0/pitch/scarletletter_10_hawthorne_0160.pt|not with reluctance|3
-hi_fi_tts_v0/audio/92_clean/6973/livingalone_06_benson_0079.mp3|hi_fi_tts_v0/pitch/livingalone_06_benson_0079.pt|and indeed it was not long before harold passed entirely beyond control|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_10_hawthorne_0047.mp3|hi_fi_tts_v0/pitch/scarletletter_10_hawthorne_0047.pt|in the shape of high aspirations for the welfare of his race|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0741.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_06_nietzsche_0741.pt|precisely this shall be called greatness|3
-hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_02_hill_0169.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_02_hill_0169.pt|aunt crete's heart beat with anticipation as he handed her a little white box|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0560.mp3|hi_fi_tts_v0/pitch/secretagent_06_conrad_0560.pt|and solitude in a small four roomed cottage were favourable to his inspiration|3
-hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_03_hill_0310.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_03_hill_0310.pt|and there would be something in it for her|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_06_hawthorne_0346.mp3|hi_fi_tts_v0/pitch/scarletletter_06_hawthorne_0346.pt|smiling|3
-hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_04_hill_0227.mp3|hi_fi_tts_v0/pitch/auntcretesemancipation_04_hill_0227.pt|only playing old|3
-hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0576.mp3|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0576.pt|in short|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_04_hawthorne_0183.mp3|hi_fi_tts_v0/pitch/scarletletter_04_hawthorne_0183.pt|a man already in decay|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_12_hawthorne_0176.mp3|hi_fi_tts_v0/pitch/scarletletter_12_hawthorne_0176.pt|a good evening to you venerable father wilson|3
-hi_fi_tts_v0/audio/92_clean/9288/scarletletter_21_hawthorne_0135.mp3|hi_fi_tts_v0/pitch/scarletletter_21_hawthorne_0135.pt|child answered her mother|3
-hi_fi_tts_v0/audio/92_clean/6973/livingalone_07_benson_0077.mp3|hi_fi_tts_v0/pitch/livingalone_07_benson_0077.pt|and in a symmetrical heart shaped spot near his tail|3
-hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_14_seacole_0167.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_14_seacole_0167.pt|we bought great supplies of potatoes|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_14_conrad_0161.mp3|hi_fi_tts_v0/pitch/secretagent_14_conrad_0161.pt|the inevitable reward of men's faithful labours on this earth|3
-hi_fi_tts_v0/audio/92_clean/10425/secretagent_08_conrad_0442.mp3|hi_fi_tts_v0/pitch/secretagent_08_conrad_0442.pt|i'll try not to|3
-hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_12_seacole_0107.mp3|hi_fi_tts_v0/pitch/wonderfuladventures_12_seacole_0107.pt|with board and rations|3
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_01_nietzsche_0168.wav|hi_fi_tts_v0/pitch/zarathustra_01_nietzsche_0168.pt|I love those who do not first seek a reason beyond the stars for going down and being sacrifices, but sacrifice themselves to the earth, that the earth of the Superman may hereafter arrive.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_07_dumas_0180.wav|hi_fi_tts_v0/pitch/dartagnan03part3_07_dumas_0180.pt|Pelisson looked with a surprised air at Fouquet, whose thoughts were from that moment fixed upon a fresh object in view.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_56_dumas_0209.wav|hi_fi_tts_v0/pitch/dartagnan03part3_56_dumas_0209.pt|Monsieur le duc, the objection you make I have already considered in my mind.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_093_dumas_0061.wav|hi_fi_tts_v0/pitch/dartagnan03part1_093_dumas_0061.pt|the daughter of the Marquis de la Valliere, that is well enough;|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_40_dumas_0034.wav|hi_fi_tts_v0/pitch/dartagnan01_40_dumas_0034.pt|they stopped on the road, but you continued yours.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_035_dumas_0005.wav|hi_fi_tts_v0/pitch/dartagnan03part1_035_dumas_0005.pt|She had, therefore, like her brothers, passed through an uneasy youth;|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_06_dumas_0001.wav|hi_fi_tts_v0/pitch/dartagnan03part3_06_dumas_0001.pt|the human mind, so variously complicated, has been enabled to develop itself at its ease in the three outlines with which our recital has supplied it.|1
+hi_fi_tts_v0/audio/9017_clean/13089/historyofforestry_15_fernow_0104.wav|hi_fi_tts_v0/pitch/historyofforestry_15_fernow_0104.pt|A new set of forest regulations was enacted as a result in eighteen o five.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_32_dumas_0036.wav|hi_fi_tts_v0/pitch/dartagnan01_32_dumas_0036.pt|"It is my cousin!"|1
+hi_fi_tts_v0/audio/9017_clean/11216/celebratedcrimesv1_18_dumas_0050.wav|hi_fi_tts_v0/pitch/celebratedcrimesv1_18_dumas_0050.pt|the darkness of the night prevented the fugitive from seeing how far off he was from the ground, and his fatigue prevented him from even attempting to climb up again.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_088_dumas_0161.wav|hi_fi_tts_v0/pitch/dartagnan03part1_088_dumas_0161.pt|she is always kind and charming.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_053_dumas_0232.wav|hi_fi_tts_v0/pitch/dartagnan03part1_053_dumas_0232.pt|I entertain nothing but the profoundest respect for the king;|1
+hi_fi_tts_v0/audio/9017_clean/11216/celebratedcrimesv1_03_dumas_0121.wav|hi_fi_tts_v0/pitch/celebratedcrimesv1_03_dumas_0121.pt|Nine o'clock, half-past nine, a quarter to ten struck, without anything happening to confirm or destroy their hopes.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_48_dumas_0139.wav|hi_fi_tts_v0/pitch/dartagnan01_48_dumas_0139.pt|the details escape me.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_48_dumas_0135.wav|hi_fi_tts_v0/pitch/dartagnan03part3_48_dumas_0135.pt|"Come, admit at once that you arrest me,"|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_016_dumas_0087.wav|hi_fi_tts_v0/pitch/dartagnan03part1_016_dumas_0087.pt|and my brother Louis has refused me.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_011_dumas_0221.wav|hi_fi_tts_v0/pitch/dartagnan03part1_011_dumas_0221.pt|It is settled: to-morrow I will throw my cassock to the nettles.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_57_dumas_0015.wav|hi_fi_tts_v0/pitch/dartagnan03part3_57_dumas_0015.pt|This name did not even arouse the recollections of Raoul.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_35_dumas_0123.wav|hi_fi_tts_v0/pitch/dartagnan01_35_dumas_0123.pt|said the Gascon, proud to display so rich a gift in the eyes of his friends.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_43_dumas_0024.wav|hi_fi_tts_v0/pitch/dartagnan01_43_dumas_0024.pt|The cardinal was left free to carry on the siege, without having, at least at the present, anything to fear on the part of the English.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_88_dumas_0074.wav|hi_fi_tts_v0/pitch/dartagnan03part3_88_dumas_0074.pt|his countenance expressed a lively grief, but he did not stop;|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_10_dumas_0094.wav|hi_fi_tts_v0/pitch/dartagnan03part3_10_dumas_0094.pt|I have brought the money with me,-the whole sum, I mean.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_48_dumas_0053.wav|hi_fi_tts_v0/pitch/dartagnan01_48_dumas_0053.pt|said Athos.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_75_dumas_0035.wav|hi_fi_tts_v0/pitch/dartagnan03part3_75_dumas_0035.pt|people like me break the cord.|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_48_nietzsche_0037.wav|hi_fi_tts_v0/pitch/zarathustra_48_nietzsche_0037.pt|And verily, it were time that I went away;|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_05_dumas_0165.wav|hi_fi_tts_v0/pitch/dartagnan01_05_dumas_0165.pt|interrupted Aramis.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_02_dumas_0251.wav|hi_fi_tts_v0/pitch/dartagnan03part3_02_dumas_0251.pt|your fortune is secured.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_48_dumas_0118.wav|hi_fi_tts_v0/pitch/dartagnan03part3_48_dumas_0118.pt|Fouquet turned to his valet, and said,|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_28_dumas_0480.wav|hi_fi_tts_v0/pitch/dartagnan01_28_dumas_0480.pt|said Aramis.|1
+hi_fi_tts_v0/audio/9017_clean/13089/historyofforestry_08_fernow_0120.wav|hi_fi_tts_v0/pitch/historyofforestry_08_fernow_0120.pt|an organization quite distinct from the State forest administration.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_52_dumas_0167.wav|hi_fi_tts_v0/pitch/dartagnan01_52_dumas_0167.pt|See, John, see how well she knows how to handle a knife.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_27_dumas_0276.wav|hi_fi_tts_v0/pitch/dartagnan01_27_dumas_0276.pt|replied d'Artagnan, totally unable to refrain from laughing at the pitiable face of the host.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_33_dumas_0265.wav|hi_fi_tts_v0/pitch/dartagnan03part3_33_dumas_0265.pt|I have seen his pictures, and observed that his dresses were highly elaborated.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_30_dumas_0166.wav|hi_fi_tts_v0/pitch/dartagnan01_30_dumas_0166.pt|said d'Artagnan;|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_49_nietzsche_0056.wav|hi_fi_tts_v0/pitch/zarathustra_49_nietzsche_0056.pt|For all things are baptized at the font of eternity, and beyond good and evil;|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_29_dumas_0235.wav|hi_fi_tts_v0/pitch/dartagnan03part3_29_dumas_0235.pt|"Why did you tell me,"|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_067_dumas_0193.wav|hi_fi_tts_v0/pitch/dartagnan03part1_067_dumas_0193.pt|"No," replied he;|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_63_dumas_0278.wav|hi_fi_tts_v0/pitch/dartagnan01_63_dumas_0278.pt|"Oh, my God!"|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_10_dumas_0036.wav|hi_fi_tts_v0/pitch/dartagnan03part3_10_dumas_0036.pt|I thought that you had perhaps something to say.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_56_dumas_0386.wav|hi_fi_tts_v0/pitch/dartagnan01_56_dumas_0386.pt|I will proclaim you a piece of immaculate virtue;|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_49_dumas_0064.wav|hi_fi_tts_v0/pitch/dartagnan01_49_dumas_0064.pt|A large cloak was spread at the stern;|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_25_dumas_0137.wav|hi_fi_tts_v0/pitch/dartagnan03part3_25_dumas_0137.pt|"To get yourself arrested,-you!"|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_41_nietzsche_0085.wav|hi_fi_tts_v0/pitch/zarathustra_41_nietzsche_0085.pt|When I had said this, the fire-dog acted as if mad with envy.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_057_dumas_0087.wav|hi_fi_tts_v0/pitch/dartagnan03part1_057_dumas_0087.pt|they are hanging them, murmured Fouquet, in a sinister voice, which sounded like a funeral knell in that rich gallery, splendid with pictures, flowers, velvet, and gold.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_09_dumas_0093.wav|hi_fi_tts_v0/pitch/dartagnan01_09_dumas_0093.pt|"Wait a minute, then,"|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_75_nietzsche_0310.wav|hi_fi_tts_v0/pitch/zarathustra_75_nietzsche_0310.pt|So LEARN to laugh beyond yourselves!|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_04_dumas_0071.wav|hi_fi_tts_v0/pitch/dartagnan03part3_04_dumas_0071.pt|The greatest joy, one day; the deepest sorrow the next;-the sorrow,|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_075_dumas_0031.wav|hi_fi_tts_v0/pitch/dartagnan03part1_075_dumas_0031.pt|I, think that, by holding the subjects of your majesty in pay, he trespasses upon the royal prerogative, and cannot, if this continues so, be long in placing your majesty among the weak and the obscure.|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_58_nietzsche_0077.wav|hi_fi_tts_v0/pitch/zarathustra_58_nietzsche_0077.pt|Thus do I counsel all honest ones;|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_61_dumas_0355.wav|hi_fi_tts_v0/pitch/dartagnan01_61_dumas_0355.pt|From what he has told me, I know you now.|1
+hi_fi_tts_v0/audio/9017_clean/13089/historyofforestry_08_fernow_0088.wav|hi_fi_tts_v0/pitch/historyofforestry_08_fernow_0088.pt|These, for strategic reasons, were to be managed according to special working plans prepared by the|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_26_dumas_0179.wav|hi_fi_tts_v0/pitch/dartagnan01_26_dumas_0179.pt|but the thing is subtle.|1
+hi_fi_tts_v0/audio/9017_clean/11216/celebratedcrimesv1_19_dumas_0040.wav|hi_fi_tts_v0/pitch/celebratedcrimesv1_19_dumas_0040.pt|But, after a few days of rest, Abraham himself came to see his friend, and Jean ventured to ask what he thought of the Holy Father, the cardinals, and the other persons at the pontifical court.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_003_dumas_0124.wav|hi_fi_tts_v0/pitch/dartagnan03part1_003_dumas_0124.pt|"Oh, heavens!" exclaimed Montalais in a fright;|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_36_dumas_0141.wav|hi_fi_tts_v0/pitch/dartagnan01_36_dumas_0141.pt|and I shall soon know how to get rid of you -|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_77_dumas_0036.wav|hi_fi_tts_v0/pitch/dartagnan03part3_77_dumas_0036.pt|stop!|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_15_dumas_0101.wav|hi_fi_tts_v0/pitch/dartagnan03part3_15_dumas_0101.pt|And Porthos burst into a peal of laughter.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_27_dumas_0539.wav|hi_fi_tts_v0/pitch/dartagnan01_27_dumas_0539.pt|The drink-deadened eye of Athos flashed out, but only for a moment;|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_098_dumas_0160.wav|hi_fi_tts_v0/pitch/dartagnan03part1_098_dumas_0160.pt|Aramis was meditating.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_05_dumas_0331.wav|hi_fi_tts_v0/pitch/dartagnan01_05_dumas_0331.pt|But there are four against you; leave off, I command you.|1
+hi_fi_tts_v0/audio/9017_clean/13089/historyofforestry_06_fernow_0130.wav|hi_fi_tts_v0/pitch/historyofforestry_06_fernow_0130.pt|and the removal cutting.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_43_dumas_0154.wav|hi_fi_tts_v0/pitch/dartagnan03part3_43_dumas_0154.pt|Such a thing is very possible.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_63_dumas_0220.wav|hi_fi_tts_v0/pitch/dartagnan03part3_63_dumas_0220.pt|but, perceiving the king very much embarrassed,|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_60_dumas_0006.wav|hi_fi_tts_v0/pitch/dartagnan01_60_dumas_0006.pt|As to the second vessel, we will tell hereafter whom it carried, and how it set sail.|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_29_nietzsche_0004.wav|hi_fi_tts_v0/pitch/zarathustra_29_nietzsche_0004.pt|They cast their eye down into the fountain:|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_102_dumas_0099.wav|hi_fi_tts_v0/pitch/dartagnan03part1_102_dumas_0099.pt|You value them at eight hundred thousand francs? Nearly so.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_79_dumas_0119.wav|hi_fi_tts_v0/pitch/dartagnan03part3_79_dumas_0119.pt|This frightful shock seemed to restore Porthos the strength that he had lost;|1
+hi_fi_tts_v0/audio/9017_clean/13089/historyofforestry_11_fernow_0206.wav|hi_fi_tts_v0/pitch/historyofforestry_11_fernow_0206.pt|All jurisdiction and execution of forestry laws is in the hands of the officials of the Forest Administration.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_30_dumas_0095.wav|hi_fi_tts_v0/pitch/dartagnan03part3_30_dumas_0095.pt|But this time it was no longer happiness that his face expressed, but something akin to terror.|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_59_nietzsche_0102.wav|hi_fi_tts_v0/pitch/zarathustra_59_nietzsche_0102.pt|When the great man crieth -|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_16_nietzsche_0025.wav|hi_fi_tts_v0/pitch/zarathustra_16_nietzsche_0025.pt|so seemed it alike pleasing and hard to the people from whom cometh my name -|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_67_dumas_0001.wav|hi_fi_tts_v0/pitch/dartagnan01_67_dumas_0001.pt|Although warned that the man she had loved so much was in great danger, the queen, when his death was announced to her, would not believe the fact, and even imprudently exclaimed,|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_18_dumas_0055.wav|hi_fi_tts_v0/pitch/dartagnan01_18_dumas_0055.pt|"Oh, I am sure of that!"|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_019_dumas_0022.wav|hi_fi_tts_v0/pitch/dartagnan03part1_019_dumas_0022.pt|D'Artagnan took advantage of a moment's pause to examine the countenance of Planchet, whom he had not seen for a year.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_40_dumas_0195.wav|hi_fi_tts_v0/pitch/dartagnan01_40_dumas_0195.pt|At the first sound of the morning trumpet the friends separated;|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_59_dumas_0222.wav|hi_fi_tts_v0/pitch/dartagnan01_59_dumas_0222.pt|You sent me a strange madman this morning!|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_25_dumas_0209.wav|hi_fi_tts_v0/pitch/dartagnan01_25_dumas_0209.pt|"Exactly so,"|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_05_dumas_0165.wav|hi_fi_tts_v0/pitch/dartagnan03part3_05_dumas_0165.pt|Yes, gladly.|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_80_nietzsche_0075.wav|hi_fi_tts_v0/pitch/zarathustra_80_nietzsche_0075.pt|which of us both knoweth that best?|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_091_dumas_0207.wav|hi_fi_tts_v0/pitch/dartagnan03part1_091_dumas_0207.pt|smile upon your wife, behave to her, to the king, to every one, as usual.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_22_dumas_0113.wav|hi_fi_tts_v0/pitch/dartagnan01_22_dumas_0113.pt|the king, the queen, his Eminence, and himself.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_90_dumas_0234.wav|hi_fi_tts_v0/pitch/dartagnan03part3_90_dumas_0234.pt|The tree of grief is planted over their tomb;|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_35_dumas_0254.wav|hi_fi_tts_v0/pitch/dartagnan03part3_35_dumas_0254.pt|he said,|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_87_dumas_0072.wav|hi_fi_tts_v0/pitch/dartagnan03part3_87_dumas_0072.pt|A choked respiration, the opposite to a sharp cry, swelled the throat of D'Artagnan.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_12_dumas_0113.wav|hi_fi_tts_v0/pitch/dartagnan01_12_dumas_0113.pt|never speak of that evening.|1
+hi_fi_tts_v0/audio/9017_clean/13089/historyofforestry_11_fernow_0247.wav|hi_fi_tts_v0/pitch/historyofforestry_11_fernow_0247.pt|The most noted work of the forest administration, and one for which it deserves high credit, has been that of the reclamation of waste lands, of which, in eighteen seventy nine, it was estimated there were still twenty million acres in extent.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_69_dumas_0091.wav|hi_fi_tts_v0/pitch/dartagnan03part3_69_dumas_0091.pt|Fouquet had not yet perceived D'Artagnan.|1
+hi_fi_tts_v0/audio/9017_clean/14261/dartagnan03part3_58_dumas_0153.wav|hi_fi_tts_v0/pitch/dartagnan03part3_58_dumas_0153.pt|Let us be gone, Raoul.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_30_dumas_0040.wav|hi_fi_tts_v0/pitch/dartagnan01_30_dumas_0040.pt|I love my poor Constance more than ever, and if I knew the place in which she is, were it at the end of the world, I would go to free her from the hands of her enemies;|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_01_nietzsche_0472.wav|hi_fi_tts_v0/pitch/zarathustra_01_nietzsche_0472.pt|Then he looked inquiringly aloft, -|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_44_dumas_0007.wav|hi_fi_tts_v0/pitch/dartagnan01_44_dumas_0007.pt|and every time he passed and repassed he heard a murmur of words, which at length fixed his attention.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_061_dumas_0078.wav|hi_fi_tts_v0/pitch/dartagnan03part1_061_dumas_0078.pt|"I am conducting you to the abode of the god Plutus," said D'Artagnan to the young man;|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_028_dumas_0049.wav|hi_fi_tts_v0/pitch/dartagnan03part1_028_dumas_0049.pt|good heavens! said a voice on the other side of the door.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_057_dumas_0007.wav|hi_fi_tts_v0/pitch/dartagnan03part1_057_dumas_0007.pt|his brow, upon which affairs of state never impressed a wrinkle, was this evening paler than usual, and more than one friendly eye remarked that pallor.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_15_dumas_0159.wav|hi_fi_tts_v0/pitch/dartagnan01_15_dumas_0159.pt|And what do you know about them, Monsieur?|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_18_dumas_0116.wav|hi_fi_tts_v0/pitch/dartagnan01_18_dumas_0116.pt|Be assured you will not find her Majesty ungrateful.|1
+hi_fi_tts_v0/audio/9017_clean/13130/dartagnan01_50_dumas_0023.wav|hi_fi_tts_v0/pitch/dartagnan01_50_dumas_0023.pt|replied he,|1
+hi_fi_tts_v0/audio/9017_clean/15482/zarathustra_25_nietzsche_0017.wav|hi_fi_tts_v0/pitch/zarathustra_25_nietzsche_0017.pt|and let that be your best creating!|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_053_dumas_0385.wav|hi_fi_tts_v0/pitch/dartagnan03part1_053_dumas_0385.pt|Sire, I know he does.|1
+hi_fi_tts_v0/audio/9017_clean/13885/dartagnan03part1_022_dumas_0013.wav|hi_fi_tts_v0/pitch/dartagnan03part1_022_dumas_0013.pt|D'Artagnan recognized his ten men in these cold, indifferent spectators.|1
+hi_fi_tts_v0/audio/6097_clean/14764/jaufry_01_lafon_0140.wav|hi_fi_tts_v0/pitch/jaufry_01_lafon_0140.pt|the king believed the beast was lack of spirit,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_13_haggard_0105.wav|hi_fi_tts_v0/pitch/nada_lily_13_haggard_0105.pt|and beneath it on the floor,|2
+hi_fi_tts_v0/audio/6097_clean/14764/jaufry_06_lafon_0119.wav|hi_fi_tts_v0/pitch/jaufry_06_lafon_0119.pt|for I am wearied out;|2
+hi_fi_tts_v0/audio/6097_clean/15277/swag_01_tompkins_0337.wav|hi_fi_tts_v0/pitch/swag_01_tompkins_0337.pt|One may imagine that the articles enumerated will make a formidable swag,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_09_haggard_0306.wav|hi_fi_tts_v0/pitch/nada_lily_09_haggard_0306.pt|"Oh, save him!"|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_04_mann_0143.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_04_mann_0143.pt|to assist in the tillage,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_09_haggard_0118.wav|hi_fi_tts_v0/pitch/nada_lily_09_haggard_0118.pt|It is haunted also,|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_17_haggard_0179.wav|hi_fi_tts_v0/pitch/bambatse_17_haggard_0179.pt|She is your daughter, she will obey you.|2
+hi_fi_tts_v0/audio/6097_clean/15277/swag_04_tompkins_0257.wav|hi_fi_tts_v0/pitch/swag_04_tompkins_0257.pt|The return from Bell is available for return from Richmond.|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_26_haggard_0172.wav|hi_fi_tts_v0/pitch/nada_lily_26_haggard_0172.pt|Now when she heard these words,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_06_morris_0003.wav|hi_fi_tts_v0/pitch/roots_06_morris_0003.pt|his new friends noted that,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_30_morris_0008.wav|hi_fi_tts_v0/pitch/roots_30_morris_0008.pt|that the time seemed long to all the three,|2
+hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_05_morris_0231.wav|hi_fi_tts_v0/pitch/glitteringplain_05_morris_0231.pt|and up the sloping shaft thereof the moonlit sky and the bright stars.|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_02_morris_0201.wav|hi_fi_tts_v0/pitch/roots_02_morris_0201.pt|and had been a very fair woman,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_49_morris_0136.wav|hi_fi_tts_v0/pitch/roots_49_morris_0136.pt|but hereafter shall we come again to it,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_25_morris_0036.wav|hi_fi_tts_v0/pitch/roots_25_morris_0036.pt|left spade or axe or plough-stilts,|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_03_mann_0801.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_03_mann_0801.pt|it was found impossible to derive any benefit from it.|2
+hi_fi_tts_v0/audio/6097_clean/15326/hartmann_07_fawcett_0377.wav|hi_fi_tts_v0/pitch/hartmann_07_fawcett_0377.pt|he said,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_03_morris_0265.wav|hi_fi_tts_v0/pitch/roots_03_morris_0265.pt|While the song was a-singing Face-of-god took the Bride's hand in his and caressed it,|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_05_mann_0602.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_05_mann_0602.pt|there is no occasion for my saying much in addition,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_25_morris_0111.wav|hi_fi_tts_v0/pitch/roots_25_morris_0111.pt|and seemed a doughty warrior.|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_02_haggard_0224.wav|hi_fi_tts_v0/pitch/bambatse_02_haggard_0224.pt|and that the ship would be beached in half an hour.|2
+hi_fi_tts_v0/audio/6097_clean/15326/hartmann_06_fawcett_0139.wav|hi_fi_tts_v0/pitch/hartmann_06_fawcett_0139.pt|We stepped out on to the passage,|2
+hi_fi_tts_v0/audio/6097_clean/15277/swag_00_tompkins_0248.wav|hi_fi_tts_v0/pitch/swag_00_tompkins_0248.pt|unless the man walks twenty miles,|2
+hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_18_morris_0163.wav|hi_fi_tts_v0/pitch/glitteringplain_18_morris_0163.pt|but at last he laughed and said:|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_05_mann_0736.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_05_mann_0736.pt|ideas being frequently perverted,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_49_morris_0055.wav|hi_fi_tts_v0/pitch/roots_49_morris_0055.pt|and I hereby give command to all my kindred to do according to thy will everywhere and always,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_17_haggard_0180.wav|hi_fi_tts_v0/pitch/nada_lily_17_haggard_0180.pt|as he fled round and round,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_23_morris_0101.wav|hi_fi_tts_v0/pitch/roots_23_morris_0101.pt|sorrowful and angry,|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_03_mann_0546.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_03_mann_0546.pt|The muster is taken by the commissary,|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_04_mann_0567.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_04_mann_0567.pt|To raise the settlement from this state of dependence;|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_27_haggard_0059.wav|hi_fi_tts_v0/pitch/nada_lily_27_haggard_0059.pt|Still, what is is, and cannot be altered;|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_07_haggard_0382.wav|hi_fi_tts_v0/pitch/bambatse_07_haggard_0382.pt|wondering whether he had done right,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_29_haggard_0208.wav|hi_fi_tts_v0/pitch/nada_lily_29_haggard_0208.pt|Now I bent forward and whispered to him, yet, alas!|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_16_haggard_0314.wav|hi_fi_tts_v0/pitch/bambatse_16_haggard_0314.pt|I am so stiff that I cannot lift my neck to look at you,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_01_haggard_0199.wav|hi_fi_tts_v0/pitch/nada_lily_01_haggard_0199.pt|but the path is long, we are weary and shall fall by the way.|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_01_haggard_0065.wav|hi_fi_tts_v0/pitch/nada_lily_01_haggard_0065.pt|and because he had murdered my wives and children.|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_45_morris_0112.wav|hi_fi_tts_v0/pitch/roots_45_morris_0112.pt|Abide a little while,|2
+hi_fi_tts_v0/audio/6097_clean/15326/hartmann_07_fawcett_0095.wav|hi_fi_tts_v0/pitch/hartmann_07_fawcett_0095.pt|"May I ask you two important questions?"|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_05_mann_0902.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_05_mann_0902.pt|would induce numbers to look forward into futurity with a satisfaction which they had not possessed previously,|2
+hi_fi_tts_v0/audio/6097_clean/13418/shortstories_06_gaskell_0624.wav|hi_fi_tts_v0/pitch/shortstories_06_gaskell_0624.pt|not wishing to have them seen.|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_10_morris_0067.wav|hi_fi_tts_v0/pitch/roots_10_morris_0067.pt|for this seemed to them good game,|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_01_haggard_0039.wav|hi_fi_tts_v0/pitch/bambatse_01_haggard_0039.pt|she added, in explanation,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_37_morris_0024.wav|hi_fi_tts_v0/pitch/roots_37_morris_0024.pt|But when all the other Houses were assembled,|2
+hi_fi_tts_v0/audio/6097_clean/15326/hartmann_13_fawcett_0109.wav|hi_fi_tts_v0/pitch/hartmann_13_fawcett_0109.pt|Work your way up the street into the crowd going to Shepherd's Bush.|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_07_haggard_0101.wav|hi_fi_tts_v0/pitch/nada_lily_07_haggard_0101.pt|But in the wind and the night they lost their path,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_30_haggard_0360.wav|hi_fi_tts_v0/pitch/nada_lily_30_haggard_0360.pt|for few maids would marry them who then must labour alone all their days.|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_34_haggard_0036.wav|hi_fi_tts_v0/pitch/nada_lily_34_haggard_0036.pt|driving in the bone and making a great hole.|2
+hi_fi_tts_v0/audio/6097_clean/9575/astralplane_03_leadbeater_0537.wav|hi_fi_tts_v0/pitch/astralplane_03_leadbeater_0537.pt|Some writers have spoken of it under the name "elementary," but as that title has at one time or other been used for almost every variety of post-mortem entity,|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_02_mann_0109.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_02_mann_0109.pt|to deliver to the governor a weekly return of stock killed,|2
+hi_fi_tts_v0/audio/6097_clean/15326/hartmann_12_fawcett_0107.wav|hi_fi_tts_v0/pitch/hartmann_12_fawcett_0107.pt|His words to her had necessarily been more or less enigmatical.|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_08_haggard_0257.wav|hi_fi_tts_v0/pitch/nada_lily_08_haggard_0257.pt|sat down in a half-moon facing the king,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_20_morris_0137.wav|hi_fi_tts_v0/pitch/roots_20_morris_0137.pt|and then led him through the Ring of Stones,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_11_haggard_0048.wav|hi_fi_tts_v0/pitch/nada_lily_11_haggard_0048.pt|that in a day to be I might wreak vengeance on the king.|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_15_haggard_0055.wav|hi_fi_tts_v0/pitch/nada_lily_15_haggard_0055.pt|and when he had passed the forest-of which he had learned every secret way-the darkness gathered,|2
+hi_fi_tts_v0/audio/6097_clean/15277/swag_04_tompkins_0724.wav|hi_fi_tts_v0/pitch/swag_04_tompkins_0724.pt|twenty eight p.m. is much to be preferred.|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_24_morris_0074.wav|hi_fi_tts_v0/pitch/roots_24_morris_0074.pt|and tell me what thou hast done,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_31_morris_0035.wav|hi_fi_tts_v0/pitch/roots_31_morris_0035.pt|even now much bettered by their new soft days;|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_02_mann_0661.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_02_mann_0661.pt|but by a permit,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_31_haggard_0408.wav|hi_fi_tts_v0/pitch/nada_lily_31_haggard_0408.pt|they answered.|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_24_haggard_0310.wav|hi_fi_tts_v0/pitch/bambatse_24_haggard_0310.pt|and I won't kill you as I meant to do.|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_02_mann_0107.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_02_mann_0107.pt|on board vessels,|2
+hi_fi_tts_v0/audio/6097_clean/15277/swag_01_tompkins_0149.wav|hi_fi_tts_v0/pitch/swag_01_tompkins_0149.pt|And it is proof amounting to a mathematical demonstration of the great value of walking,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_20_haggard_0236.wav|hi_fi_tts_v0/pitch/nada_lily_20_haggard_0236.pt|By midday to-morrow they might be here, and then-|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_21_morris_0038.wav|hi_fi_tts_v0/pitch/roots_21_morris_0038.pt|and she smiled on him and drank,|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_21_haggard_0269.wav|hi_fi_tts_v0/pitch/bambatse_21_haggard_0269.pt|Such of the fragments as they could lift they carried between them,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_50_morris_0125.wav|hi_fi_tts_v0/pitch/roots_50_morris_0125.pt|and have between us such breadth of wild-wood and mountain-neck.|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_04_mann_0274.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_04_mann_0274.pt|where such a disposition displayed itself,|2
+hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_06_morris_0024.wav|hi_fi_tts_v0/pitch/glitteringplain_06_morris_0024.pt|for he said to himself:|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_10_haggard_0362.wav|hi_fi_tts_v0/pitch/bambatse_10_haggard_0362.pt|"Lady, do you trust me?"|2
+hi_fi_tts_v0/audio/6097_clean/15326/hartmann_10_fawcett_0050.wav|hi_fi_tts_v0/pitch/hartmann_10_fawcett_0050.pt|and the ruffians proceeded forthwith to settle their claims in this fashion.|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_34_morris_0425.wav|hi_fi_tts_v0/pitch/roots_34_morris_0425.pt|Therewith the throng opened,|2
+hi_fi_tts_v0/audio/6097_clean/15277/swag_01_tompkins_0184.wav|hi_fi_tts_v0/pitch/swag_01_tompkins_0184.pt|slovenly manner,|2
+hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_03_morris_0013.wav|hi_fi_tts_v0/pitch/glitteringplain_03_morris_0013.pt|so that they might end the sorrow at once,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_28_haggard_0263.wav|hi_fi_tts_v0/pitch/nada_lily_28_haggard_0263.pt|The king bids his children go in peace.|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_07_morris_0238.wav|hi_fi_tts_v0/pitch/roots_07_morris_0238.pt|I was seeking something,|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_19_haggard_0327.wav|hi_fi_tts_v0/pitch/bambatse_19_haggard_0327.pt|And now let us talk no more of the matter, lest we should grow angry.|2
+hi_fi_tts_v0/audio/6097_clean/14764/jaufry_06_lafon_0155.wav|hi_fi_tts_v0/pitch/jaufry_06_lafon_0155.pt|the sound was heard,|2
+hi_fi_tts_v0/audio/6097_clean/14764/jaufry_03_lafon_0251.wav|hi_fi_tts_v0/pitch/jaufry_03_lafon_0251.pt|This, fair my lord, hath been my only crime.|2
+hi_fi_tts_v0/audio/6097_clean/14764/jaufry_04_lafon_0084.wav|hi_fi_tts_v0/pitch/jaufry_04_lafon_0084.pt|and as the dart came hissing to its prey, he deftly bowed him down;|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_01_haggard_0025.wav|hi_fi_tts_v0/pitch/bambatse_01_haggard_0025.pt|no less than the destinies of both of them.|2
+hi_fi_tts_v0/audio/6097_clean/14843/bambatse_07_haggard_0154.wav|hi_fi_tts_v0/pitch/bambatse_07_haggard_0154.pt|since ivory is too heavy for my messengers to carry,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_15_morris_0033.wav|hi_fi_tts_v0/pitch/roots_15_morris_0033.pt|which all men had heard of,|2
+hi_fi_tts_v0/audio/6097_clean/15326/hartmann_09_fawcett_0069.wav|hi_fi_tts_v0/pitch/hartmann_09_fawcett_0069.pt|It was a scene to inspire the painter-this weird vessel and its weird crew borne along between an angry welkin and the riotous surges of the ocean.|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_01_mann_0155.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_01_mann_0155.pt|Under this combination of disadvantages,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_34_haggard_0254.wav|hi_fi_tts_v0/pitch/nada_lily_34_haggard_0254.pt|husband,|2
+hi_fi_tts_v0/audio/6097_clean/14764/jaufry_03_lafon_0040.wav|hi_fi_tts_v0/pitch/jaufry_03_lafon_0040.pt|say,|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_10_haggard_0007.wav|hi_fi_tts_v0/pitch/nada_lily_10_haggard_0007.pt|"What is it, king's men?"|2
+hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_05_morris_0100.wav|hi_fi_tts_v0/pitch/glitteringplain_05_morris_0100.pt|and the edge of the fallow blade to pay that which he will have of thee.|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_04_mann_0522.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_04_mann_0522.pt|from the time of its establishment,|2
+hi_fi_tts_v0/audio/6097_clean/11271/glitteringplain_16_morris_0077.wav|hi_fi_tts_v0/pitch/glitteringplain_16_morris_0077.pt|This plain also was grassy and beset with trees and thickets here and there.|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_43_morris_0179.wav|hi_fi_tts_v0/pitch/roots_43_morris_0179.pt|they should first be questioned with torments,|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_04_mann_0270.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_04_mann_0270.pt|as have been left unprovided for,|2
+hi_fi_tts_v0/audio/6097_clean/9575/astralplane_06_leadbeater_0182.wav|hi_fi_tts_v0/pitch/astralplane_06_leadbeater_0182.pt|more especially among simple-minded people who live under suitable conditions -|2
+hi_fi_tts_v0/audio/6097_clean/14411/nada_lily_01_haggard_0123.wav|hi_fi_tts_v0/pitch/nada_lily_01_haggard_0123.pt|Our tribe lived in a beautiful open country;|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_41_morris_0177.wav|hi_fi_tts_v0/pitch/roots_41_morris_0177.pt|smote the wavering column of spray from the force at their backs,|2
+hi_fi_tts_v0/audio/6097_clean/8992/presentpictureofnsw_05_mann_1024.wav|hi_fi_tts_v0/pitch/presentpictureofnsw_05_mann_1024.pt|under the hand and seal of the governor,|2
+hi_fi_tts_v0/audio/6097_clean/13657/roots_15_morris_0004.wav|hi_fi_tts_v0/pitch/roots_15_morris_0004.pt|As for the Bride, she was sad, and more than misdoubted all;|2
+hi_fi_tts_v0/audio/6097_clean/15326/hartmann_01_fawcett_0381.wav|hi_fi_tts_v0/pitch/hartmann_01_fawcett_0381.pt|What nicely-scented note-paper your business correspondents use.|2
+hi_fi_tts_v0/audio/6097_clean/13418/shortstories_10_gaskell_0430.wav|hi_fi_tts_v0/pitch/shortstories_10_gaskell_0430.pt|But Mary and Bill had to abide waiting that afternoon;|2
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_07_benson_0516.wav|hi_fi_tts_v0/pitch/livingalone_07_benson_0516.pt|"I don't really know why she's idling like that," Sarah Brown heard him say in his breathy pathetic voice.|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_10_seacole_0198.wav|hi_fi_tts_v0/pitch/wonderfuladventures_10_seacole_0198.pt|but all the while I think his thoughts were running on this strange discovery.|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_02_hill_0079.wav|hi_fi_tts_v0/pitch/auntcretesemancipation_02_hill_0079.pt|She hurried out into the dining-room to get the table cleared off,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_02_seacole_0157.wav|hi_fi_tts_v0/pitch/wonderfuladventures_02_seacole_0157.pt|and respected by none,|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_09_hawthorne_0227.wav|hi_fi_tts_v0/pitch/scarletletter_09_hawthorne_0227.pt|if not shocked,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0395.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_06_nietzsche_0395.pt|doubt,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_16_seacole_0165.wav|hi_fi_tts_v0/pitch/wonderfuladventures_16_seacole_0165.pt|and with no little difficulty,|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_03_ford_0232.wav|hi_fi_tts_v0/pitch/souloflondon_03_ford_0232.pt|You may pick out upon the pavement any strange object;|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_13_seacole_0215.wav|hi_fi_tts_v0/pitch/wonderfuladventures_13_seacole_0215.pt|"James Wallen, "fifth Division Army Works Corps.|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_14_ford_0260.wav|hi_fi_tts_v0/pitch/souloflondon_14_ford_0260.pt|There is no reason therefore why London should not do as much for her children.|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_05_hawthorne_0200.wav|hi_fi_tts_v0/pitch/scarletletter_05_hawthorne_0200.pt|whether for the apparel of the dead body,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_15_seacole_0009.wav|hi_fi_tts_v0/pitch/wonderfuladventures_15_seacole_0009.pt|In the first place,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_05_nietzsche_0035.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_05_nietzsche_0035.pt|when they concerned themselves with morality as a science:|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_13_ford_0059.wav|hi_fi_tts_v0/pitch/souloflondon_13_ford_0059.pt|it is as if a red torch were shaken in the air and quenched That is lightning,|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_22_hawthorne_0326.wav|hi_fi_tts_v0/pitch/scarletletter_22_hawthorne_0326.pt|and for the purpose,|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_14_ford_0190.wav|hi_fi_tts_v0/pitch/souloflondon_14_ford_0190.pt|so was the writer of the book of Job.|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0022.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0022.pt|Which the Sphinx?|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_05_hawthorne_0389.wav|hi_fi_tts_v0/pitch/scarletletter_05_hawthorne_0389.pt|But sometimes,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_05_nietzsche_0178.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_05_nietzsche_0178.pt|for instance, virtue, art, music, dancing, reason, spirituality -|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0749.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_06_nietzsche_0749.pt|is true more especially and unfortunately as concerns the philosopher and philosophical matters:|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_05_nietzsche_0531.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_05_nietzsche_0531.pt|but rather endurable only,|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_05_benson_0056.wav|hi_fi_tts_v0/pitch/livingalone_05_benson_0056.pt|"Better not stay," she murmured.|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_10_hawthorne_0271.wav|hi_fi_tts_v0/pitch/scarletletter_10_hawthorne_0271.pt|as if he had been discussing the point within himself,|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_08_hawthorne_0292.wav|hi_fi_tts_v0/pitch/scarletletter_08_hawthorne_0292.pt|Hath she not expressed this thought in the garb of the poor child,|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_08_conrad_0905.wav|hi_fi_tts_v0/pitch/secretagent_08_conrad_0905.pt|Stevie gave glances of reverential compassion to his brother-in-law.|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_09_nietzsche_0131.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_09_nietzsche_0131.pt|indeed sometimes their close juxtaposition -|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_01_nietzsche_0383.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_01_nietzsche_0383.pt|the malicious fairy,|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_13_conrad_0425.wav|hi_fi_tts_v0/pitch/secretagent_13_conrad_0425.pt|"Ah, but he is dead now,"|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_06_hawthorne_0168.wav|hi_fi_tts_v0/pitch/scarletletter_06_hawthorne_0168.pt|Then, perhaps -|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00b_hawthorne_0352.wav|hi_fi_tts_v0/pitch/scarletletter_00b_hawthorne_0352.pt|suffer moral detriment from this peculiar mode of life.|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_12_conrad_0374.wav|hi_fi_tts_v0/pitch/secretagent_12_conrad_0374.pt|Into that plunging blow,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_03_nietzsche_0466.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_03_nietzsche_0466.pt|before,|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_14_conrad_0607.wav|hi_fi_tts_v0/pitch/secretagent_14_conrad_0607.pt|She let her saviour settle her comfortably,|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_02_conrad_0039.wav|hi_fi_tts_v0/pitch/secretagent_02_conrad_0039.pt|They had to be protected;|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_07_ford_0107.wav|hi_fi_tts_v0/pitch/souloflondon_07_ford_0107.pt|of the English Cathedrals-|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_04_conrad_0349.wav|hi_fi_tts_v0/pitch/secretagent_04_conrad_0349.pt|"Yes,"|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_02_benson_0381.wav|hi_fi_tts_v0/pitch/livingalone_02_benson_0381.pt|You do not know how horrible it is.|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_08_benson_0074.wav|hi_fi_tts_v0/pitch/livingalone_08_benson_0074.pt|sausages and mash dawned on the horizon,|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_15_hawthorne_0126.wav|hi_fi_tts_v0/pitch/scarletletter_15_hawthorne_0126.pt|on her own bosom the decoration with which she was so familiar on her mother's.|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_13_hawthorne_0056.wav|hi_fi_tts_v0/pitch/scarletletter_13_hawthorne_0056.pt|she did not weigh upon its sympathies.|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_01_conrad_0065.wav|hi_fi_tts_v0/pitch/secretagent_01_conrad_0065.pt|steady-eyed impudence,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0894.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_07_nietzsche_0894.pt|for THIS is just what she believes of the eternally masculine.|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_09_conrad_0013.wav|hi_fi_tts_v0/pitch/secretagent_09_conrad_0013.pt|said Mister Verloc,|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_06_hill_0317.wav|hi_fi_tts_v0/pitch/auntcretesemancipation_06_hill_0317.pt|and she's fixed it all up.|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_12_hawthorne_0326.wav|hi_fi_tts_v0/pitch/scarletletter_12_hawthorne_0326.pt|But before Mister Dimmesdale had done speaking,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_18_seacole_0071.wav|hi_fi_tts_v0/pitch/wonderfuladventures_18_seacole_0071.pt|even after the fall of Sebastopol,|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_06_ford_0527.wav|hi_fi_tts_v0/pitch/souloflondon_06_ford_0527.pt|sanguinely and amiably explained.|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_18_seacole_0288.wav|hi_fi_tts_v0/pitch/wonderfuladventures_18_seacole_0288.pt|and kind wishes from absent friends.|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00b_hawthorne_0257.wav|hi_fi_tts_v0/pitch/scarletletter_00b_hawthorne_0257.pt|aided by the cheerful temper which grew inevitably out of his physical well-being,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0265.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0265.pt|and of the best,|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_04_ford_0013.wav|hi_fi_tts_v0/pitch/souloflondon_04_ford_0013.pt|with their chimneys smoking,|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_09_hawthorne_0405.wav|hi_fi_tts_v0/pitch/scarletletter_09_hawthorne_0405.pt|could justify its prejudice against Roger Chillingworth by no fact or argument worthy of serious refutation.|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0574.wav|hi_fi_tts_v0/pitch/secretagent_06_conrad_0574.pt|and that a full report could be obtained in a few hours.|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_03_hill_0231.wav|hi_fi_tts_v0/pitch/auntcretesemancipation_03_hill_0231.pt|Aunt Crete was all in a flutter that night.|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0004.wav|hi_fi_tts_v0/pitch/secretagent_06_conrad_0004.pt|and treated still rather as a not very wise and utterly inexperienced young girl.|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_04_conrad_0684.wav|hi_fi_tts_v0/pitch/secretagent_04_conrad_0684.pt|across the hall,|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_06_hawthorne_0108.wav|hi_fi_tts_v0/pitch/scarletletter_06_hawthorne_0108.pt|the frequent application of the rod,|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_18_hawthorne_0046.wav|hi_fi_tts_v0/pitch/scarletletter_18_hawthorne_0046.pt|for those it was easy to arrange -|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0337.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_02_nietzsche_0337.pt|and thus to a doubling of the woe?|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_05_conrad_0188.wav|hi_fi_tts_v0/pitch/secretagent_05_conrad_0188.pt|Very damaging, too!|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_18_hawthorne_0197.wav|hi_fi_tts_v0/pitch/scarletletter_18_hawthorne_0197.pt|heathen Nature of the forest,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0116.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_06_nietzsche_0116.pt|his circumspection,|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_00c_hawthorne_0665.wav|hi_fi_tts_v0/pitch/scarletletter_00c_hawthorne_0665.pt|may return to himself, and become all that he has ever been.|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_03_hill_0048.wav|hi_fi_tts_v0/pitch/auntcretesemancipation_03_hill_0048.pt|"I really couldn't go, dear,"|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_05_nietzsche_0374.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_05_nietzsche_0374.pt|he rather takes about five out of every twenty words at random,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_17_seacole_0207.wav|hi_fi_tts_v0/pitch/wonderfuladventures_17_seacole_0207.pt|I can give you no very clear description of its condition on that Sunday morning,|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_14_ford_0152.wav|hi_fi_tts_v0/pitch/souloflondon_14_ford_0152.pt|odd roads and quaint figures,|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_06_benson_0433.wav|hi_fi_tts_v0/pitch/livingalone_06_benson_0433.pt|where no park-keeper ever looks,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_03_nietzsche_0222.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_03_nietzsche_0222.pt|In many cases it appears,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_05_seacole_0322.wav|hi_fi_tts_v0/pitch/wonderfuladventures_05_seacole_0322.pt|would face him boldly here,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0689.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_07_nietzsche_0689.pt|an enjoyment of the arbitrariness of all these manifestations of power.|3
+hi_fi_tts_v0/audio/92_clean/9783/auntcretesemancipation_04_hill_0255.wav|hi_fi_tts_v0/pitch/auntcretesemancipation_04_hill_0255.pt|and Aunt Crete had lived by that all her life.|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_05_conrad_0152.wav|hi_fi_tts_v0/pitch/secretagent_05_conrad_0152.pt|His promotion had been very rapid.|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_15_conrad_0238.wav|hi_fi_tts_v0/pitch/secretagent_15_conrad_0238.pt|He needed it to live.|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_04_hawthorne_0261.wav|hi_fi_tts_v0/pitch/scarletletter_04_hawthorne_0261.pt|as I have sought gold in alchemy.|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_04_hawthorne_0287.wav|hi_fi_tts_v0/pitch/scarletletter_04_hawthorne_0287.pt|but thy words interpret thee as a terror! One thing,|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_07_benson_0505.wav|hi_fi_tts_v0/pitch/livingalone_07_benson_0505.pt|The approach of Richard upon a white horse for some time seemed only an extension of her dream.|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_02_hawthorne_0391.wav|hi_fi_tts_v0/pitch/scarletletter_02_hawthorne_0391.pt|passages of infancy and school-days,|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_13_conrad_0409.wav|hi_fi_tts_v0/pitch/secretagent_13_conrad_0409.pt|he floundered on,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_02_seacole_0174.wav|hi_fi_tts_v0/pitch/wonderfuladventures_02_seacole_0174.pt|and the town itself stood upon a sand-reef,|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_07_benson_0294.wav|hi_fi_tts_v0/pitch/livingalone_07_benson_0294.pt|It flaunts itself up and down once or twice, as if to say:|3
+hi_fi_tts_v0/audio/92_clean/10633/souloflondon_05_ford_0198.wav|hi_fi_tts_v0/pitch/souloflondon_05_ford_0198.pt|is to be overcome with convictions.|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_12_hawthorne_0251.wav|hi_fi_tts_v0/pitch/scarletletter_12_hawthorne_0251.pt|It was immediately responded to by a light,|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_02_benson_0185.wav|hi_fi_tts_v0/pitch/livingalone_02_benson_0185.pt|from women who wrought domestic magic and perished for its sake,|3
+hi_fi_tts_v0/audio/92_clean/9288/scarletletter_10_hawthorne_0151.wav|hi_fi_tts_v0/pitch/scarletletter_10_hawthorne_0151.pt|who will stand waiting,|3
+hi_fi_tts_v0/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0042.wav|hi_fi_tts_v0/pitch/beyondgoodandevil_06_nietzsche_0042.pt|I found most frequently,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_06_seacole_0194.wav|hi_fi_tts_v0/pitch/wonderfuladventures_06_seacole_0194.pt|and put every plaintiff out of court who described himself as residing in that unrecognised place.|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_15_seacole_0173.wav|hi_fi_tts_v0/pitch/wonderfuladventures_15_seacole_0173.pt|ice,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_13_seacole_0044.wav|hi_fi_tts_v0/pitch/wonderfuladventures_13_seacole_0044.pt|but the poor officer lying ill and weary in his crazy hut,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_10_seacole_0033.wav|hi_fi_tts_v0/pitch/wonderfuladventures_10_seacole_0033.pt|but it is too late for hesitation now.|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_05_benson_0590.wav|hi_fi_tts_v0/pitch/livingalone_05_benson_0590.pt|much ruffled,|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_05_benson_0331.wav|hi_fi_tts_v0/pitch/livingalone_05_benson_0331.pt|"I'm afraid my little dinner-party wasn't a great success," said Lady Arabel confidentially.|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_02_benson_0563.wav|hi_fi_tts_v0/pitch/livingalone_02_benson_0563.pt|"This house," replied the witch,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_14_seacole_0216.wav|hi_fi_tts_v0/pitch/wonderfuladventures_14_seacole_0216.pt|Some of them were baked in large shallow pans,|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_08_benson_0211.wav|hi_fi_tts_v0/pitch/livingalone_08_benson_0211.pt|had tried to kiss the witch as they shot up the darkened shaft.|3
+hi_fi_tts_v0/audio/92_clean/6973/livingalone_02_benson_0180.wav|hi_fi_tts_v0/pitch/livingalone_02_benson_0180.pt|By Jove, that gives us enough to talk about for two or three lives!|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_13_seacole_0049.wav|hi_fi_tts_v0/pitch/wonderfuladventures_13_seacole_0049.pt|How often have I felt sad at the sight of poor lads,|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_06_conrad_0552.wav|hi_fi_tts_v0/pitch/secretagent_06_conrad_0552.pt|Fitted with painful tightness into an old wooden arm-chair,|3
+hi_fi_tts_v0/audio/92_clean/7967/wonderfuladventures_06_seacole_0169.wav|hi_fi_tts_v0/pitch/wonderfuladventures_06_seacole_0169.pt|and the people, for some reason -|3
+hi_fi_tts_v0/audio/92_clean/10425/secretagent_02_conrad_0006.wav|hi_fi_tts_v0/pitch/secretagent_02_conrad_0006.pt|his boots were shiny;|3
