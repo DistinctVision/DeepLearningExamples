@@ -17,7 +17,7 @@ export OMP_NUM_THREADS=1
 
 # Adjust these when the amount of data changes
 : ${EPOCHS:=1000}
-: ${EPOCHS_PER_CHECKPOINT:=20}
+: ${EPOCHS_PER_CHECKPOINT:=10}
 : ${WARMUP_STEPS:=1000}
 : ${KL_LOSS_WARMUP:=100}
 
@@ -33,7 +33,7 @@ export OMP_NUM_THREADS=1
 : ${LOAD_MEL_FROM_DISK:=false}
 
 # For multispeaker models, add speaker ID = {0, 1, ...} as the last filelist column
-: ${NSPEAKERS:=2}
+: ${NSPEAKERS:=4}
 : ${SAMPLING_RATE:=22050}
 
 # Adjust env variables to maintain the global batch size: NUM_GPUS x BATCH_SIZE x GRAD_ACCUMULATION = 256.
