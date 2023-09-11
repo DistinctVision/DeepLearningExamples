@@ -143,7 +143,7 @@ def parse_args(parser):
 
     dist = parser.add_argument_group('distributed setup')
     dist.add_argument(
-        '--local_rank', type=int, default=os.getenv('LOCAL_RANK', 0),
+        '--local_rank', '--local-rank', type=int, default=os.getenv('LOCAL_RANK', 0),
         help='Rank of the process for multiproc. Do not set manually.')
     dist.add_argument(
         '--world_size', type=int, default=os.getenv('WORLD_SIZE', 1),
