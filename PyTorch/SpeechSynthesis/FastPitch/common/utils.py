@@ -78,6 +78,8 @@ def load_wav_to_torch(full_path, force_sampling_rate=None):
     else:
         sampling_rate, data = read(full_path)
 
+    if data.dtype == np.float32:
+        data *= 2 ** 15
     return torch.FloatTensor(data.astype(np.float32)), sampling_rate
 
 
